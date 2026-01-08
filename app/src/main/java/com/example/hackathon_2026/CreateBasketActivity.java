@@ -19,7 +19,9 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.UUID;
 
 public class CreateBasketActivity extends AppCompatActivity {
@@ -183,6 +185,17 @@ public class CreateBasketActivity extends AppCompatActivity {
         finish();
     }
 
+    // --- Helper Class for Grouping ---
+    private static class GroupedItem {
+        Product product;
+        int count;
+
+        GroupedItem(Product product, int count) {
+            this.product = product;
+            this.count = count;
+        }
+    }
+
     // --- Search Result Adapter ---
     private class ProductAdapter extends RecyclerView.Adapter<ProductAdapter.ViewHolder> {
 
@@ -222,8 +235,32 @@ public class CreateBasketActivity extends AppCompatActivity {
         }
     }
 
-    // --- Basket Item Adapter (Used in Dialog) ---
+    // --- Basket Item Adapter (Used in Dialog with Grouping) ---
     private class BasketItemAdapter extends RecyclerView.Adapter<BasketItemAdapter.ViewHolder> {
+
+        private List<GroupedItem> groupedItems;
+
+        BasketItemAdapter() {
+            refreshGroupedItems();
+        }
+
+        private void refreshGroupedItems() {
+            Map<String, GroupedItem> map = new HashMap<>();
+            // Assuming Product has a unique 'barcode' or 'name'. Using name as key for now since barcode isn't always reliable in mocks.
+            // If strict unique ID exists, prefer that.
+
+            for (Product p : basketProducts) {
+                // Ideally use ID/Barcode. Assuming name is unique enough for this hackathon context.
+                String key = (p.barcode != null && !p.barcode.isEmpty()) ? p.barcode : p.name;
+
+                if (map.containsKey(key)) {
+                    map.get(key).count++;
+                } else {
+                    map.put(key, new GroupedItem(p, 1));
+                }
+            }
+            groupedItems = new ArrayList<>(map.values());
+        }
 
         @NonNull
         @Override
@@ -235,29 +272,49 @@ public class CreateBasketActivity extends AppCompatActivity {
 
         @Override
         public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
-            Product product = basketProducts.get(position);
-            holder.tvName.setText(product.name);
+            GroupedItem item = groupedItems.get(position);
 
-            // Change button to "Remove" or "X"
+            // Display: "Product Name (3x)" or just "Product Name"
+            String displayText = item.product.name;
+            if (item.count > 1) {
+                displayText += " (" + item.count + "x)";
+            }
+            holder.tvName.setText(displayText);
+
+            // Change button to "Remove"
             holder.btnAdd.setText("Remove");
             holder.btnAdd.setBackgroundColor(getResources().getColor(android.R.color.holo_red_light));
 
             holder.btnAdd.setOnClickListener(v -> {
-                basketProducts.remove(position);
-                notifyItemRemoved(position);
-                notifyItemRangeChanged(position, basketProducts.size());
-                updateBasketCount(); // Update the main activity count from within the dialog
+                removeOneInstance(item.product);
+                refreshGroupedItems();
+                notifyDataSetChanged(); // Since grouping changes the whole structure, easier to reload all
+                updateBasketCount();
 
-                // If empty, maybe dismiss dialog? Or keep open? User choice. Keeping open is safer.
                 if (basketProducts.isEmpty()) {
                      Toast.makeText(CreateBasketActivity.this, "Basket is now empty", Toast.LENGTH_SHORT).show();
                 }
             });
         }
 
+        private void removeOneInstance(Product productToRemove) {
+             // We need to find *one* instance in the main list and remove it.
+             // We match by barcode or name again.
+             for (int i = 0; i < basketProducts.size(); i++) {
+                 Product p = basketProducts.get(i);
+                 String keyP = (p.barcode != null && !p.barcode.isEmpty()) ? p.barcode : p.name;
+                 String keyTarget = (productToRemove.barcode != null && !productToRemove.barcode.isEmpty()) ? productToRemove.barcode : productToRemove.name;
+
+                 if (keyP.equals(keyTarget)) {
+                     basketProducts.remove(i);
+                     return; // Remove only one
+                 }
+             }
+        }
+
         @Override
         public int getItemCount() {
-            return basketProducts.size();
+            return groupedItems.size();
         }
 
         class ViewHolder extends RecyclerView.ViewHolder {
