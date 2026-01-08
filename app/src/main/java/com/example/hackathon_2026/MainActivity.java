@@ -1,5 +1,6 @@
 package com.example.hackathon_2026;
 
+import android.content.Context;
 import android.os.Bundle;
 import android.util.Log;
 import androidx.activity.EdgeToEdge;
@@ -15,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private List<Product> allProducts;
     private static final String TAG = "HACKATHON_LOG";
 
+    public static Context context;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
