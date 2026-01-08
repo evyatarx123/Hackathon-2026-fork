@@ -1,51 +1,43 @@
 package com.example.hackathon_2026;
 
-import java.util.List;
-import java.util.Map;
-
 public class PriceEngine {
 
-    // מחלקת עזר פנימית לתוצאה
-    public static class ComparisonResult {
-        public String cheapestStore;
-        public double cheapestPrice;
-        public Map<String, Double> allPrices;
+    public static class BestDeal {
+        public String storeName;
+        public double price;
 
-        public ComparisonResult(String cheapestStore, double cheapestPrice, Map<String, Double> allPrices) {
-            this.cheapestStore = cheapestStore;
-            this.cheapestPrice = cheapestPrice;
-            this.allPrices = allPrices;
+        public BestDeal(String storeName, double price) {
+            this.storeName = storeName;
+            this.price = price;
         }
     }
 
-    // הפונקציה המרכזית שתחפש את המחיר
-    public static ComparisonResult findCheapestStore(String targetBarcode, List<Product> productsList) {
-        Product foundProduct = null;
+    public static BestDeal calculateCheapest(Product product) {
+        if (product == null || product.prices == null) return null;
 
-        for (Product p : productsList) {
-            if (p.barcode.equals(targetBarcode)) {
-                foundProduct = p;
-                break;
-            }
+        double cheapest = Double.MAX_VALUE;
+        String cheapestStore = "לא נמצא";
+
+        // בדיקה לשופרסל
+        if (product.prices.shufersalDeal != null && product.prices.shufersalDeal < cheapest) {
+            cheapest = product.prices.shufersalDeal;
+            cheapestStore = "שופרסל דיל";
         }
 
-        if (foundProduct == null) return null;
-
-        double minPrice = Double.MAX_VALUE;
-        String bestStore = "";
-
-        for (Map.Entry<String, Double> entry : foundProduct.prices.entrySet()) {
-            String storeName = entry.getKey();
-            Double price = entry.getValue();
-
-            if (price != null && price < minPrice) {
-                minPrice = price;
-                bestStore = storeName;
-            }
+        // בדיקה לרמי לוי
+        if (product.prices.ramiLevi != null && product.prices.ramiLevi < cheapest) {
+            cheapest = product.prices.ramiLevi;
+            cheapestStore = "רמי לוי";
         }
 
-        if (bestStore.isEmpty()) return null;
+        // בדיקה ליוחננוף
+        if (product.prices.yohananof != null && product.prices.yohananof < cheapest) {
+            cheapest = product.prices.yohananof;
+            cheapestStore = "יוחננוף";
+        }
 
-        return new ComparisonResult(bestStore, minPrice, foundProduct.prices);
+        if (cheapest == Double.MAX_VALUE) return null;
+
+        return new BestDeal(cheapestStore, cheapest);
     }
 }
