@@ -1,0 +1,5472 @@
+[
+    {
+        "barcode": "11210000094",
+        "name": "רוטב טבסקו 60 מ\"ל",
+        "prices": {
+            "Shufersal Deal": 12.9,
+            "Rami Levi": null,
+            "Yohananof": 11.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "11210009387",
+        "name": "רוטב טבסקו ירוק 60 מ\"ל",
+        "prices": {
+            "Shufersal Deal": 12.9,
+            "Rami Levi": null,
+            "Yohananof": 11.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "4000417019004",
+        "name": "שוק.ריטר חלב אגוז שלם100",
+        "prices": {
+            "Shufersal Deal": 12.9,
+            "Rami Levi": null,
+            "Yohananof": 13.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "40084107",
+        "name": "ביצת קינדר הפתעה 20 גרם",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": 7.9,
+            "Yohananof": 5.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "4009900403023",
+        "name": "מסטיק אורביט ויט מנטה64ג",
+        "prices": {
+            "Shufersal Deal": 11.9,
+            "Rami Levi": 12.6,
+            "Yohananof": 11.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "4009900552165",
+        "name": "אורביט רפרשרס אבטיח 67 ג",
+        "prices": {
+            "Shufersal Deal": 13.5,
+            "Rami Levi": 15.1,
+            "Yohananof": 13.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "4011800636517",
+        "name": "קורני FREE שוקולד חלב6יח",
+        "prices": {
+            "Shufersal Deal": 15.9,
+            "Rami Levi": null,
+            "Yohananof": 15.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "4014400914696",
+        "name": "סוכריות חמאה לל\"ס80 ורטר",
+        "prices": {
+            "Shufersal Deal": 9.9,
+            "Rami Levi": null,
+            "Yohananof": 8.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "4820217240114",
+        "name": "חמאה FERMA 82.5%גרם 200",
+        "prices": {
+            "Shufersal Deal": 13.9,
+            "Rami Levi": 15.6,
+            "Yohananof": 13.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "5029053002408",
+        "name": "נ.ט. קלינקס לבן 9 גל.",
+        "prices": {
+            "Shufersal Deal": 33.9,
+            "Rami Levi": 41.8,
+            "Yohananof": 30.2
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "5054563205667",
+        "name": "אקוה פרש לשיני חלב 0-5 5",
+        "prices": {
+            "Shufersal Deal": 11.9,
+            "Rami Levi": null,
+            "Yohananof": 11.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "5411188081852",
+        "name": "משקה סויה בטעם וניל 1 ל",
+        "prices": {
+            "Shufersal Deal": 16.9,
+            "Rami Levi": 17.8,
+            "Yohananof": 15.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "5411188112709",
+        "name": "משקה שקדים ללת\"ס אלפרו1ל",
+        "prices": {
+            "Shufersal Deal": 16.9,
+            "Rami Levi": 17.8,
+            "Yohananof": 15.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "5413548280189",
+        "name": "קינדר שוקובונס 125 גרם",
+        "prices": {
+            "Shufersal Deal": 17.9,
+            "Rami Levi": 18.0,
+            "Yohananof": 15.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "5711953160363",
+        "name": "סטארבקס פרפוצ'ינו קפה250",
+        "prices": {
+            "Shufersal Deal": 15.5,
+            "Rami Levi": null,
+            "Yohananof": 14.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "5740900403215",
+        "name": "ממרח לורפק עם מלח 250 גר",
+        "prices": {
+            "Shufersal Deal": 18.3,
+            "Rami Levi": 20.2,
+            "Yohananof": 17.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "5740900403239",
+        "name": "ממרח לורפק ללא מלח 250 ג",
+        "prices": {
+            "Shufersal Deal": 18.3,
+            "Rami Levi": 20.2,
+            "Yohananof": 17.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "5906485301012",
+        "name": "XL משקה אנרגיה 250 מ\"ל",
+        "prices": {
+            "Shufersal Deal": 5.0,
+            "Rami Levi": 4.9,
+            "Yohananof": 4.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "64144090051",
+        "name": "תרסיס שמן קנולה 148 מ\"ל",
+        "prices": {
+            "Shufersal Deal": 18.9,
+            "Rami Levi": null,
+            "Yohananof": 17.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "70970475337",
+        "name": "סוכריות ג'לי אורגינל 120",
+        "prices": {
+            "Shufersal Deal": 12.9,
+            "Rami Levi": null,
+            "Yohananof": 11.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "70970475368",
+        "name": "סוכריות ג'לי מגה מיקס120",
+        "prices": {
+            "Shufersal Deal": 12.9,
+            "Rami Levi": null,
+            "Yohananof": 11.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "70970475375",
+        "name": "סוכריות מגה מיקס חמוץ120",
+        "prices": {
+            "Shufersal Deal": 12.9,
+            "Rami Levi": null,
+            "Yohananof": 11.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7271730901261",
+        "name": "פסטה עם רוטב גבינה156ג",
+        "prices": {
+            "Shufersal Deal": 11.5,
+            "Rami Levi": null,
+            "Yohananof": 11.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000023809",
+        "name": "ברקן קלאסיק קברנה 750מ\"ל",
+        "prices": {
+            "Shufersal Deal": 35.9,
+            "Rami Levi": 36.9,
+            "Yohananof": 34.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000040462",
+        "name": "טוסטי גבינה 23% 200 גרם",
+        "prices": {
+            "Shufersal Deal": 22.9,
+            "Rami Levi": null,
+            "Yohananof": 21.4
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000040974",
+        "name": "חלב טרי 2% דל לקטוז 1 ל",
+        "prices": {
+            "Shufersal Deal": 8.3,
+            "Rami Levi": 8.9,
+            "Yohananof": 7.8
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000041858",
+        "name": "שמנת חמוצה15% מועשרת200",
+        "prices": {
+            "Shufersal Deal": 3.2,
+            "Rami Levi": 3.6,
+            "Yohananof": 2.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000042435",
+        "name": "חלב מפוסטר 1% בקרטון 1ל'",
+        "prices": {
+            "Shufersal Deal": 6.85,
+            "Rami Levi": 6.8,
+            "Yohananof": 6.85
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000042855",
+        "name": "שוקו בשקית יטבתה 225מ\"ל",
+        "prices": {
+            "Shufersal Deal": 3.0,
+            "Rami Levi": 3.0,
+            "Yohananof": 2.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000043890",
+        "name": "רויון 1.5% בקרטון 1ל",
+        "prices": {
+            "Shufersal Deal": 13.9,
+            "Rami Levi": 15.3,
+            "Yohananof": 13.3
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000046327",
+        "name": "גב.גלבוע פרוסות22% 200גר",
+        "prices": {
+            "Shufersal Deal": 15.2,
+            "Rami Levi": 16.5,
+            "Yohananof": 14.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000048185",
+        "name": "גבינה לבנה 5% שומן 250 ג",
+        "prices": {
+            "Shufersal Deal": 5.81,
+            "Rami Levi": 5.8,
+            "Yohananof": 5.81
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000048307",
+        "name": "קוטג' 5% עם זיתים 250 גר",
+        "prices": {
+            "Shufersal Deal": 7.0,
+            "Rami Levi": 7.9,
+            "Yohananof": 6.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000051352",
+        "name": "חלב של פעם מלא3.6%-4% 1ל",
+        "prices": {
+            "Shufersal Deal": 9.1,
+            "Rami Levi": 9.5,
+            "Yohananof": 9.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000052311",
+        "name": "עמק 15% פרוס בקופסא 200ג",
+        "prices": {
+            "Shufersal Deal": 18.9,
+            "Rami Levi": 19.9,
+            "Yohananof": 18.4
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000052717",
+        "name": "קוטג' +שום שמיר",
+        "prices": {
+            "Shufersal Deal": 7.0,
+            "Rami Levi": null,
+            "Yohananof": 6.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000056272",
+        "name": "גבינה לבנה+זיתים 5% 250ג",
+        "prices": {
+            "Shufersal Deal": 7.5,
+            "Rami Levi": 7.9,
+            "Yohananof": 7.1
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000056845",
+        "name": "חלב טרי הומוגני3% 1.5ל'",
+        "prices": {
+            "Shufersal Deal": 10.92,
+            "Rami Levi": null,
+            "Yohananof": 10.92
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000057088",
+        "name": "גבינת עמק דק דק 28% 200ג",
+        "prices": {
+            "Shufersal Deal": 18.9,
+            "Rami Levi": 19.9,
+            "Yohananof": 18.4
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000057118",
+        "name": "גבינת עמק פרוסה",
+        "prices": {
+            "Shufersal Deal": 26.9,
+            "Rami Levi": 28.7,
+            "Yohananof": 25.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000057132",
+        "name": "יוגורט תנובה1.5%",
+        "prices": {
+            "Shufersal Deal": 3.9,
+            "Rami Levi": 4.3,
+            "Yohananof": 3.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000057149",
+        "name": "יוגורט תנובה 3% 200 גרם",
+        "prices": {
+            "Shufersal Deal": 3.9,
+            "Rami Levi": 4.3,
+            "Yohananof": 3.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000058047",
+        "name": "שמנת להקצפה38% תנובה500מ",
+        "prices": {
+            "Shufersal Deal": 15.12,
+            "Rami Levi": 14.9,
+            "Yohananof": 15.12
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000060163",
+        "name": "אטריות דקות 400 גרם",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": 8.3,
+            "Yohananof": 6.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000060200",
+        "name": "פתיתים אפויים קוסקוס500ג",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": 6.9,
+            "Yohananof": 5.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000060217",
+        "name": "פסטה מקרוני 7 500 גרם",
+        "prices": {
+            "Shufersal Deal": 6.5,
+            "Rami Levi": 6.9,
+            "Yohananof": 5.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000060248",
+        "name": "פסטה אסם תלתלים 500 גרם",
+        "prices": {
+            "Shufersal Deal": 6.5,
+            "Rami Levi": 6.9,
+            "Yohananof": 5.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000060781",
+        "name": "פסטה מסולסלת אסם 500 גרם",
+        "prices": {
+            "Shufersal Deal": 6.5,
+            "Rami Levi": 6.9,
+            "Yohananof": 5.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000060842",
+        "name": "פסטה צדפים גדולים 500 גר",
+        "prices": {
+            "Shufersal Deal": 6.5,
+            "Rami Levi": 6.9,
+            "Yohananof": 5.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000060880",
+        "name": "פסטה ספגטי מס 8 אסם 500ג",
+        "prices": {
+            "Shufersal Deal": 6.5,
+            "Rami Levi": 6.9,
+            "Yohananof": 5.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000060903",
+        "name": "פתיתים אפויים אורז 500 ג",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": null,
+            "Yohananof": 5.5
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000060972",
+        "name": "אטריות דקיקות אסם 400 גר",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": 8.3,
+            "Yohananof": 6.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000061085",
+        "name": "רוטב צילי מתוק 290 מ\"ל",
+        "prices": {
+            "Shufersal Deal": 13.5,
+            "Rami Levi": 12.5,
+            "Yohananof": 10.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000061764",
+        "name": "נס קפה רד מאג 200 גרם",
+        "prices": {
+            "Shufersal Deal": 28.9,
+            "Rami Levi": null,
+            "Yohananof": 19.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000062952",
+        "name": "מיני קרוטונים מתובל 250ג",
+        "prices": {
+            "Shufersal Deal": 17.2,
+            "Rami Levi": 17.7,
+            "Yohananof": 15.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000063140",
+        "name": "שקדי מרק רכיבים טבעי400ג",
+        "prices": {
+            "Shufersal Deal": 11.9,
+            "Rami Levi": 11.5,
+            "Yohananof": 10.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000064758",
+        "name": "קוסקוס בינוני 350 גרם",
+        "prices": {
+            "Shufersal Deal": 8.7,
+            "Rami Levi": 9.4,
+            "Yohananof": 8.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000065540",
+        "name": "מנה חמה פסטה מוקרמת 55ג",
+        "prices": {
+            "Shufersal Deal": 8.2,
+            "Rami Levi": null,
+            "Yohananof": 5.5
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000066226",
+        "name": "ביסלי פיצה 200 גרם",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": 8.3,
+            "Yohananof": 7.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000068138",
+        "name": "אינסטנט פודינג וניל 80גר",
+        "prices": {
+            "Shufersal Deal": 5.9,
+            "Rami Levi": 6.2,
+            "Yohananof": 4.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000068343",
+        "name": "פריכונים מאורז מלא 140גר",
+        "prices": {
+            "Shufersal Deal": 9.9,
+            "Rami Levi": 8.7,
+            "Yohananof": 7.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000072623",
+        "name": "קטשופ אסם בקבוק 750גר",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 15.9,
+            "Yohananof": 10.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000072753",
+        "name": "קפה נמס טסטרס צויס200ג",
+        "prices": {
+            "Shufersal Deal": 35.9,
+            "Rami Levi": 39.9,
+            "Yohananof": 35.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000073750",
+        "name": "מנה חמה נודלס בטעם עוף71",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": 6.9,
+            "Yohananof": 5.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000074184",
+        "name": "פתי בר קלאסי 500 גרם אסם",
+        "prices": {
+            "Shufersal Deal": 11.9,
+            "Rami Levi": 13.7,
+            "Yohananof": 10.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000074245",
+        "name": "קרם קרקר 250 גרם",
+        "prices": {
+            "Shufersal Deal": 9.9,
+            "Rami Levi": 9.3,
+            "Yohananof": 9.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000077017",
+        "name": "קרמוגית ממולא שוקו200.גר",
+        "prices": {
+            "Shufersal Deal": 14.5,
+            "Rami Levi": 12.9,
+            "Yohananof": 10.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000104690",
+        "name": "גרעיני תירס קפוא 800 גרם",
+        "prices": {
+            "Shufersal Deal": 19.9,
+            "Rami Levi": 21.9,
+            "Yohananof": 13.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000104836",
+        "name": "שעועית עדינה שלמה 600גרם",
+        "prices": {
+            "Shufersal Deal": 23.9,
+            "Rami Levi": 26.9,
+            "Yohananof": 19.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000104904",
+        "name": "לקט ירקות מעורבים 800גרם",
+        "prices": {
+            "Shufersal Deal": 24.9,
+            "Rami Levi": 26.7,
+            "Yohananof": 24.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000112220",
+        "name": "טחינה גולמית 100% 500 גר",
+        "prices": {
+            "Shufersal Deal": 16.3,
+            "Rami Levi": 17.5,
+            "Yohananof": 15.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000120836",
+        "name": "מיונז אמיתי הלמנס 394 גר",
+        "prices": {
+            "Shufersal Deal": 13.9,
+            "Rami Levi": 15.2,
+            "Yohananof": 13.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000120874",
+        "name": "ממרח הלמנס לייט 424ג",
+        "prices": {
+            "Shufersal Deal": 13.9,
+            "Rami Levi": 16.4,
+            "Yohananof": 13.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000129457",
+        "name": "קנור רוטב פטריות 28 גרם",
+        "prices": {
+            "Shufersal Deal": 6.5,
+            "Rami Levi": 5.3,
+            "Yohananof": 4.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000134376",
+        "name": "פפריקה מתוקה בשמן 90 גרם",
+        "prices": {
+            "Shufersal Deal": 11.9,
+            "Rami Levi": null,
+            "Yohananof": 10.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000136158",
+        "name": "פפסי זירו 1.5 ליטר",
+        "prices": {
+            "Shufersal Deal": 6.9,
+            "Rami Levi": 7.7,
+            "Yohananof": 6.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000136172",
+        "name": "סבן אפ 1.5 ליטר",
+        "prices": {
+            "Shufersal Deal": 6.9,
+            "Rami Levi": 7.9,
+            "Yohananof": 6.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000136189",
+        "name": "סבן אפ זירו 1.5 ליטר",
+        "prices": {
+            "Shufersal Deal": 6.9,
+            "Rami Levi": 7.9,
+            "Yohananof": 6.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000136653",
+        "name": "בירה נשר מאלט דיאט 1.5 ל",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 9.2,
+            "Yohananof": 8.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000136776",
+        "name": "מארז פפסי זירו 6 * 1.5 ל",
+        "prices": {
+            "Shufersal Deal": 33.9,
+            "Rami Levi": 38.0,
+            "Yohananof": 33.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000144467",
+        "name": "שמן חמניות+נוגדי חמצון1ל",
+        "prices": {
+            "Shufersal Deal": 16.9,
+            "Rami Levi": null,
+            "Yohananof": 15.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000144474",
+        "name": "שמן קנולה+נוגדי חימצון1ל",
+        "prices": {
+            "Shufersal Deal": 15.9,
+            "Rami Levi": 16.9,
+            "Yohananof": 14.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000170053",
+        "name": "שוקולד פרה חלב 100ג עלית",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 9.9,
+            "Yohananof": 8.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000170077",
+        "name": "שוקולד מריר100ג פרה עלית",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 9.9,
+            "Yohananof": 8.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000176079",
+        "name": "קפה טורקי+הל 100ג עלית",
+        "prices": {
+            "Shufersal Deal": 9.7,
+            "Rami Levi": 10.5,
+            "Yohananof": 9.7
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000176413",
+        "name": "קפה נמס עלית 50 גרם",
+        "prices": {
+            "Shufersal Deal": 12.9,
+            "Rami Levi": null,
+            "Yohananof": 11.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000176420",
+        "name": "קפה נמס 200 גרם עלית",
+        "prices": {
+            "Shufersal Deal": 25.9,
+            "Rami Levi": null,
+            "Yohananof": 25.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000176475",
+        "name": "קפה נמס האג נטול200 עלית",
+        "prices": {
+            "Shufersal Deal": 44.9,
+            "Rami Levi": null,
+            "Yohananof": 36.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000178103",
+        "name": "שוקולד חלב פרה 100*4 גרם",
+        "prices": {
+            "Shufersal Deal": 28.9,
+            "Rami Levi": 32.9,
+            "Yohananof": null
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000178134",
+        "name": "שוקולד פרה מריר 100*4גרם",
+        "prices": {
+            "Shufersal Deal": 28.9,
+            "Rami Levi": 31.4,
+            "Yohananof": 27.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000178707",
+        "name": "תפוציפס בטעם טבעי 50 גר",
+        "prices": {
+            "Shufersal Deal": 4.5,
+            "Rami Levi": 4.7,
+            "Yohananof": 4.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000181103",
+        "name": "עד חצות שוק.חלב200ג עלית",
+        "prices": {
+            "Shufersal Deal": 17.9,
+            "Rami Levi": null,
+            "Yohananof": 17.7
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000190853",
+        "name": "נייר טואלט לילי פיור30גל",
+        "prices": {
+            "Shufersal Deal": 42.9,
+            "Rami Levi": null,
+            "Yohananof": 37.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000207162",
+        "name": "רוטב עגבניות22%מרוכז100ג",
+        "prices": {
+            "Shufersal Deal": 2.9,
+            "Rami Levi": 3.4,
+            "Yohananof": 2.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000208336",
+        "name": "רוטב עגבניות22%מרוכז240",
+        "prices": {
+            "Shufersal Deal": 4.9,
+            "Rami Levi": 5.9,
+            "Yohananof": 4.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000208428",
+        "name": "חומוס שלם יכין 550 גרם",
+        "prices": {
+            "Shufersal Deal": 10.0,
+            "Rami Levi": 10.7,
+            "Yohananof": 10.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000208855",
+        "name": "רוטב פסטה יכין 240 גרם",
+        "prices": {
+            "Shufersal Deal": 6.9,
+            "Rami Levi": null,
+            "Yohananof": 6.5
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000209722",
+        "name": "רוטב עגבניות פריכוז580ג",
+        "prices": {
+            "Shufersal Deal": 12.9,
+            "Rami Levi": 13.8,
+            "Yohananof": 11.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000211169",
+        "name": "אורז תאילנדי סוגת 1 ק\"ג",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": null,
+            "Yohananof": 7.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000211442",
+        "name": "אורז פרסי קלאסי 1קג סוגת",
+        "prices": {
+            "Shufersal Deal": 11.9,
+            "Rami Levi": 11.9,
+            "Yohananof": 11.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000211985",
+        "name": "אורז עגול 1 ק\"ג סוגת",
+        "prices": {
+            "Shufersal Deal": 12.9,
+            "Rami Levi": null,
+            "Yohananof": 11.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000238029",
+        "name": "בצק עלים 1 ק\"ג",
+        "prices": {
+            "Shufersal Deal": 24.5,
+            "Rami Levi": 25.7,
+            "Yohananof": 16.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000238173",
+        "name": "בורקס גבינה 800 גרם",
+        "prices": {
+            "Shufersal Deal": 24.5,
+            "Rami Levi": null,
+            "Yohananof": 22.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000238180",
+        "name": "בורקס תפו\"א 800 גרם",
+        "prices": {
+            "Shufersal Deal": 22.9,
+            "Rami Levi": 25.7,
+            "Yohananof": 21.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000243566",
+        "name": "שמן קנולה+נוגד חמצון750",
+        "prices": {
+            "Shufersal Deal": 10.0,
+            "Rami Levi": 13.1,
+            "Yohananof": null
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000262031",
+        "name": "נייר טואלט מולט 32 גליל",
+        "prices": {
+            "Shufersal Deal": 32.9,
+            "Rami Levi": 33.7,
+            "Yohananof": null
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000311203",
+        "name": "ופלים מן בטעם שוקולד200ג",
+        "prices": {
+            "Shufersal Deal": 5.9,
+            "Rami Levi": 6.0,
+            "Yohananof": 5.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000311210",
+        "name": "ופלים מן בטעם לימון 200ג",
+        "prices": {
+            "Shufersal Deal": 5.9,
+            "Rami Levi": 6.0,
+            "Yohananof": 5.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000311227",
+        "name": "ופל מן בטעם קפה 200 גרם",
+        "prices": {
+            "Shufersal Deal": 5.9,
+            "Rami Levi": null,
+            "Yohananof": 5.5
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000311722",
+        "name": "עוגיות כוכבים וניל 300 ג",
+        "prices": {
+            "Shufersal Deal": 9.9,
+            "Rami Levi": 8.9,
+            "Yohananof": 7.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000311883",
+        "name": "עוגיות גרנולה ללת\"ס200ג",
+        "prices": {
+            "Shufersal Deal": 11.9,
+            "Rami Levi": 12.9,
+            "Yohananof": 9.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000347752",
+        "name": "תה ירוק לימונ.ולואיזה25ש",
+        "prices": {
+            "Shufersal Deal": 25.5,
+            "Rami Levi": 26.8,
+            "Yohananof": 23.1
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000364858",
+        "name": "נקניקיות עוף בואקום 1ק\"ג",
+        "prices": {
+            "Shufersal Deal": 29.9,
+            "Rami Levi": 32.7,
+            "Yohananof": 24.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000408316",
+        "name": "יוגורט ביו 3% דנונה 200ג",
+        "prices": {
+            "Shufersal Deal": 4.5,
+            "Rami Levi": 4.7,
+            "Yohananof": 4.2
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000412481",
+        "name": "מנקה אסלות \"00\" 1 ליטר",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": 10.2,
+            "Yohananof": 7.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000416021",
+        "name": "ממרח השחר העולה  500גר",
+        "prices": {
+            "Shufersal Deal": 14.9,
+            "Rami Levi": 14.9,
+            "Yohananof": 13.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000416618",
+        "name": "ממרח טעם שוקולד בד\"ץ400ג",
+        "prices": {
+            "Shufersal Deal": 12.9,
+            "Rami Levi": 13.9,
+            "Yohananof": 12.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000419107",
+        "name": "קפה שחור לנדוור 100 גרם",
+        "prices": {
+            "Shufersal Deal": 10.9,
+            "Rami Levi": null,
+            "Yohananof": 9.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000446547",
+        "name": "חמאת בוטנים טבעית 350גרם",
+        "prices": {
+            "Shufersal Deal": 15.9,
+            "Rami Levi": 16.8,
+            "Yohananof": 14.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000453019",
+        "name": "שמרית-שמרים לחים 50 גרם",
+        "prices": {
+            "Shufersal Deal": 4.8,
+            "Rami Levi": 4.7,
+            "Yohananof": 4.2
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000453408",
+        "name": "בצק פיצה דק מצונן 415 גר",
+        "prices": {
+            "Shufersal Deal": 17.9,
+            "Rami Levi": 18.5,
+            "Yohananof": 15.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000453415",
+        "name": "בצק עלים לאפייה מצונן300",
+        "prices": {
+            "Shufersal Deal": 15.9,
+            "Rami Levi": 17.4,
+            "Yohananof": 15.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000453453",
+        "name": "בצק פסטה מצונן שמרית350ג",
+        "prices": {
+            "Shufersal Deal": 20.5,
+            "Rami Levi": null,
+            "Yohananof": 20.1
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000467153",
+        "name": "מלך החומוס סמיר הגדול400",
+        "prices": {
+            "Shufersal Deal": 16.5,
+            "Rami Levi": 16.7,
+            "Yohananof": 14.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000474502",
+        "name": "גבינה לבנה 5% שומן 250 ג",
+        "prices": {
+            "Shufersal Deal": 5.81,
+            "Rami Levi": 5.8,
+            "Yohananof": 5.81
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000497044",
+        "name": "לחם ברמן אקטיב 750 גרם",
+        "prices": {
+            "Shufersal Deal": 16.9,
+            "Rami Levi": null,
+            "Yohananof": 15.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000504278",
+        "name": "סוכרזית 700 טבליות",
+        "prices": {
+            "Shufersal Deal": 16.9,
+            "Rami Levi": null,
+            "Yohananof": 15.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000518220",
+        "name": "סוכרה דיאט 100 שקיות",
+        "prices": {
+            "Shufersal Deal": 28.9,
+            "Rami Levi": null,
+            "Yohananof": 24.1
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000523125",
+        "name": "מלח ים דק250ג מלח הארץ",
+        "prices": {
+            "Shufersal Deal": 6.9,
+            "Rami Levi": 7.9,
+            "Yohananof": 6.4
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000523804",
+        "name": "מלח הארץ עדין בצנצנת 1קג",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": 7.9,
+            "Yohananof": 7.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290000554624",
+        "name": "ירח מתוק מעד.חלב+אורז150",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": null,
+            "Yohananof": 6.7
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000554686",
+        "name": "לבנה בשמן זית+זעתר5% 250",
+        "prices": {
+            "Shufersal Deal": 13.9,
+            "Rami Levi": null,
+            "Yohananof": 15.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000554792",
+        "name": "גבינה בולגרית 5%במשקל",
+        "prices": {
+            "Shufersal Deal": 59.0,
+            "Rami Levi": null,
+            "Yohananof": 66.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000554839",
+        "name": "גבינה מסקרפונה 40% 250 ג",
+        "prices": {
+            "Shufersal Deal": 26.9,
+            "Rami Levi": null,
+            "Yohananof": 24.1
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000688503",
+        "name": "מים מינרליים מי עדן750*6",
+        "prices": {
+            "Shufersal Deal": 16.9,
+            "Rami Levi": 17.8,
+            "Yohananof": 15.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290001201602",
+        "name": "ביצים ארוזות 18יח L",
+        "prices": {
+            "Shufersal Deal": 21.36,
+            "Rami Levi": 21.3,
+            "Yohananof": null
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290001216705",
+        "name": "טחינה גולמית בבקבוק לחיץ",
+        "prices": {
+            "Shufersal Deal": 10.9,
+            "Rami Levi": 17.2,
+            "Yohananof": 16.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290001407769",
+        "name": "טחינה שומש.מלא בארכה500ג",
+        "prices": {
+            "Shufersal Deal": 18.3,
+            "Rami Levi": 19.9,
+            "Yohananof": 17.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290001407844",
+        "name": "חלבה וניל בארכה 350 גרם",
+        "prices": {
+            "Shufersal Deal": 16.5,
+            "Rami Levi": null,
+            "Yohananof": 15.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290001817728",
+        "name": "חטיף ציטוס בטעם קטשופ55",
+        "prices": {
+            "Shufersal Deal": 4.5,
+            "Rami Levi": 4.5,
+            "Yohananof": 3.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290001990148",
+        "name": "סוכר גולדן קלאסי 1ק סוגת",
+        "prices": {
+            "Shufersal Deal": 15.9,
+            "Rami Levi": 15.9,
+            "Yohananof": null
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290002057123",
+        "name": "זית ירוק חרוזית ל.גלע540",
+        "prices": {
+            "Shufersal Deal": 15.9,
+            "Rami Levi": 14.8,
+            "Yohananof": 12.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290002057185",
+        "name": "טבעות זיתים ירוקים540גרם",
+        "prices": {
+            "Shufersal Deal": 15.9,
+            "Rami Levi": 14.8,
+            "Yohananof": 12.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290002057376",
+        "name": "מלפ. במלח קטן13-17 540גר",
+        "prices": {
+            "Shufersal Deal": 13.9,
+            "Rami Levi": 12.1,
+            "Yohananof": 10.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290002057383",
+        "name": "מלפפון במלח 18-25 540גרם",
+        "prices": {
+            "Shufersal Deal": 14.9,
+            "Rami Levi": 14.1,
+            "Yohananof": 12.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290002065555",
+        "name": "לחמניות בשקית 75*6 גרם",
+        "prices": {
+            "Shufersal Deal": 12.5,
+            "Rami Levi": 12.9,
+            "Yohananof": 10.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290002065616",
+        "name": "לחם שיפון גרעינים 750גרם",
+        "prices": {
+            "Shufersal Deal": 15.5,
+            "Rami Levi": null,
+            "Yohananof": 14.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290002157953",
+        "name": "טונה בשמן קנולה ויליגר 4",
+        "prices": {
+            "Shufersal Deal": 22.9,
+            "Rami Levi": null,
+            "Yohananof": 17.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290002190516",
+        "name": "ממרח ריבת חלב קומידה500ג",
+        "prices": {
+            "Shufersal Deal": 15.9,
+            "Rami Levi": null,
+            "Yohananof": 16.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290002319023",
+        "name": "סוכר וניל 10*10 גרם",
+        "prices": {
+            "Shufersal Deal": 3.0,
+            "Rami Levi": null,
+            "Yohananof": 1.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290002319825",
+        "name": "אבקת סוכר 100 גרם",
+        "prices": {
+            "Shufersal Deal": 3.0,
+            "Rami Levi": null,
+            "Yohananof": 1.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290002374640",
+        "name": "שמן קנולה פלוס אומגה3 1ל",
+        "prices": {
+            "Shufersal Deal": 17.9,
+            "Rami Levi": null,
+            "Yohananof": 16.6
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290002564928",
+        "name": "נטיפי צ'יפס שוקולד 250 ג",
+        "prices": {
+            "Shufersal Deal": 15.9,
+            "Rami Levi": 15.9,
+            "Yohananof": 11.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290002771364",
+        "name": "קפה קלוי וטחון בלי הל200",
+        "prices": {
+            "Shufersal Deal": 17.9,
+            "Rami Levi": null,
+            "Yohananof": 17.6
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290002771388",
+        "name": "קפה שחור+הל 100ג אל נחלה",
+        "prices": {
+            "Shufersal Deal": 9.9,
+            "Rami Levi": null,
+            "Yohananof": 9.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290002771395",
+        "name": "קפה שחור 100ג אל נחלה",
+        "prices": {
+            "Shufersal Deal": 9.9,
+            "Rami Levi": null,
+            "Yohananof": 9.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290002824183",
+        "name": "גב.סקי משפחתי5%שומן500ג",
+        "prices": {
+            "Shufersal Deal": 11.62,
+            "Rami Levi": 11.6,
+            "Yohananof": 11.62
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290002824466",
+        "name": "יוגורט ביו 0% דנונה 200ג",
+        "prices": {
+            "Shufersal Deal": 4.5,
+            "Rami Levi": 4.7,
+            "Yohananof": 4.2
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290002824640",
+        "name": "גב.סקי5%לבנה מעודנת250ג",
+        "prices": {
+            "Shufersal Deal": 5.81,
+            "Rami Levi": 5.8,
+            "Yohananof": 5.81
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290002868996",
+        "name": "קוטג 5% שומן 250ג טרה",
+        "prices": {
+            "Shufersal Deal": 6.3,
+            "Rami Levi": 7.0,
+            "Yohananof": 6.3
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290002929642",
+        "name": "טונה בשמן ויליגר140*4גרם",
+        "prices": {
+            "Shufersal Deal": 22.9,
+            "Rami Levi": null,
+            "Yohananof": 17.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290003029181",
+        "name": "שוקו יטבתה בבקבוק 1 ליטר",
+        "prices": {
+            "Shufersal Deal": 12.3,
+            "Rami Levi": 14.3,
+            "Yohananof": 12.3
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290003029372",
+        "name": "משקה חלב בננה בקבוק 1 ל'",
+        "prices": {
+            "Shufersal Deal": 12.3,
+            "Rami Levi": null,
+            "Yohananof": 12.3
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290003029433",
+        "name": "שוקו יטבתה+פקק נשלף 250מ",
+        "prices": {
+            "Shufersal Deal": 5.8,
+            "Rami Levi": 6.0,
+            "Yohananof": 5.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290003029815",
+        "name": "חלב מועשר יטבתה 3%כד 2ל'",
+        "prices": {
+            "Shufersal Deal": 18.4,
+            "Rami Levi": null,
+            "Yohananof": 17.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290003029907",
+        "name": "אייס קפה יטבתה 2% 1ל",
+        "prices": {
+            "Shufersal Deal": 12.3,
+            "Rami Levi": 14.3,
+            "Yohananof": 12.3
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290003450602",
+        "name": "ממרח חרדל צהוב 255 גרם",
+        "prices": {
+            "Shufersal Deal": 12.5,
+            "Rami Levi": 14.1,
+            "Yohananof": 12.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290003643004",
+        "name": "אורז בסמטי קלאסי1ק סוגת",
+        "prices": {
+            "Shufersal Deal": 15.9,
+            "Rami Levi": 17.8,
+            "Yohananof": 14.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290003643387",
+        "name": "סוכר לבן צנצנת 1ק סוגת",
+        "prices": {
+            "Shufersal Deal": 12.9,
+            "Rami Levi": 13.8,
+            "Yohananof": 12.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290003643646",
+        "name": "סוכר דמררה בצנצנת1ק סוגת",
+        "prices": {
+            "Shufersal Deal": 14.9,
+            "Rami Levi": null,
+            "Yohananof": 12.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290003643738",
+        "name": "חיטה 500 גרם סוגת",
+        "prices": {
+            "Shufersal Deal": 6.9,
+            "Rami Levi": 7.7,
+            "Yohananof": 6.3
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290003643769",
+        "name": "עדשים אדומות500ג סוגת",
+        "prices": {
+            "Shufersal Deal": 9.9,
+            "Rami Levi": 9.8,
+            "Yohananof": 8.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290003805501",
+        "name": "קרקר פתית שוודי 300 גרם",
+        "prices": {
+            "Shufersal Deal": 21.9,
+            "Rami Levi": 20.5,
+            "Yohananof": 17.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290003864478",
+        "name": "סרדינים בשמן סויה 120 גר",
+        "prices": {
+            "Shufersal Deal": 5.5,
+            "Rami Levi": null,
+            "Yohananof": 4.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290003882922",
+        "name": "עלי גפן ממולאים אורז400ג",
+        "prices": {
+            "Shufersal Deal": 15.4,
+            "Rami Levi": 17.3,
+            "Yohananof": null
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290003903955",
+        "name": "שוק.חלב+קרם חלב100ג עלית",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": null,
+            "Yohananof": 8.5
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290003989539",
+        "name": "רביולי עם גבינה 400 גרם",
+        "prices": {
+            "Shufersal Deal": 19.9,
+            "Rami Levi": null,
+            "Yohananof": 19.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290004033736",
+        "name": "לחם עננים סגנון בריוש500",
+        "prices": {
+            "Shufersal Deal": 16.5,
+            "Rami Levi": null,
+            "Yohananof": 15.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290004122119",
+        "name": "פתיתי פרמזן לפסטה 100גרם",
+        "prices": {
+            "Shufersal Deal": 15.3,
+            "Rami Levi": null,
+            "Yohananof": 12.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290004122195",
+        "name": "גוש חלב פרוס28% 200מהדרי",
+        "prices": {
+            "Shufersal Deal": 16.8,
+            "Rami Levi": null,
+            "Yohananof": 15.3
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290004122683",
+        "name": "אצבעות עמק חטיף גבינה172",
+        "prices": {
+            "Shufersal Deal": 19.9,
+            "Rami Levi": 21.8,
+            "Yohananof": 19.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290004124847",
+        "name": "קצפת צמחית השף הלבן500מל",
+        "prices": {
+            "Shufersal Deal": 17.2,
+            "Rami Levi": 18.5,
+            "Yohananof": 15.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290004125370",
+        "name": "שמנת חמוצה 9% שומן 200מל",
+        "prices": {
+            "Shufersal Deal": 4.7,
+            "Rami Levi": 5.0,
+            "Yohananof": 4.3
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290004125400",
+        "name": "אשל מהדרין 4.5% 200 מ\"ל",
+        "prices": {
+            "Shufersal Deal": 1.97,
+            "Rami Levi": 1.95,
+            "Yohananof": 1.97
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290004125455",
+        "name": "שמנת תנובה 15%שומן200מל",
+        "prices": {
+            "Shufersal Deal": 2.81,
+            "Rami Levi": 2.8,
+            "Yohananof": 2.81
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290004125509",
+        "name": "שמנת חמוצה15% חצי מנה100",
+        "prices": {
+            "Shufersal Deal": 2.2,
+            "Rami Levi": 2.4,
+            "Yohananof": 2.1
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290004125578",
+        "name": "משקה סויה 1 ליטר",
+        "prices": {
+            "Shufersal Deal": 11.9,
+            "Rami Levi": 12.3,
+            "Yohananof": 10.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290004125585",
+        "name": "משקה סויה בטעם וניל 1 לי",
+        "prices": {
+            "Shufersal Deal": 11.9,
+            "Rami Levi": 13.3,
+            "Yohananof": 10.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290004125776",
+        "name": "גב.עמק פרוס 28%קופסא400ג",
+        "prices": {
+            "Shufersal Deal": 33.9,
+            "Rami Levi": 35.9,
+            "Yohananof": 33.3
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290004126674",
+        "name": "גבינה טל העמק לייט9% 200",
+        "prices": {
+            "Shufersal Deal": 22.9,
+            "Rami Levi": 23.9,
+            "Yohananof": 21.4
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290004127077",
+        "name": "קוטג' תנובה 3% שומן 250",
+        "prices": {
+            "Shufersal Deal": 6.1,
+            "Rami Levi": 6.4,
+            "Yohananof": 6.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290004127329",
+        "name": "קוטג' 5% 250 גרם בעלז",
+        "prices": {
+            "Shufersal Deal": 6.1,
+            "Rami Levi": 6.4,
+            "Yohananof": 6.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290004127336",
+        "name": "קוטג' תנובה 9% שומן 250ג",
+        "prices": {
+            "Shufersal Deal": 6.1,
+            "Rami Levi": 6.4,
+            "Yohananof": 6.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290004127862",
+        "name": "גבינה לבנה 5% 750 גרם",
+        "prices": {
+            "Shufersal Deal": 17.43,
+            "Rami Levi": null,
+            "Yohananof": 17.43
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290004129101",
+        "name": "גב.נפולאון טעם טבעי 225ג",
+        "prices": {
+            "Shufersal Deal": 15.8,
+            "Rami Levi": 17.0,
+            "Yohananof": 14.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290004129545",
+        "name": "גבינה למריחה 3% 250 גרם",
+        "prices": {
+            "Shufersal Deal": 6.3,
+            "Rami Levi": null,
+            "Yohananof": 5.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290004131074",
+        "name": "חלב בקרטון 3% שומן 1 ל'",
+        "prices": {
+            "Shufersal Deal": 7.28,
+            "Rami Levi": 7.2,
+            "Yohananof": 7.28
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290004136857",
+        "name": "מעדן גלי פטל 125 גרם",
+        "prices": {
+            "Shufersal Deal": 2.8,
+            "Rami Levi": 3.1,
+            "Yohananof": 2.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290004137311",
+        "name": "גבינת עמק 9% 400 גרם",
+        "prices": {
+            "Shufersal Deal": 36.9,
+            "Rami Levi": 38.9,
+            "Yohananof": 34.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290004584528",
+        "name": "יוגורט ביו 1.7%דנונה200ג",
+        "prices": {
+            "Shufersal Deal": 4.5,
+            "Rami Levi": 4.7,
+            "Yohananof": 4.2
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290004685010",
+        "name": "לחם מחמצת שיפון קל 500 ג",
+        "prices": {
+            "Shufersal Deal": 17.5,
+            "Rami Levi": null,
+            "Yohananof": 14.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290004685089",
+        "name": "לחם חמניות 500 גרם",
+        "prices": {
+            "Shufersal Deal": 17.5,
+            "Rami Levi": null,
+            "Yohananof": 14.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290004685157",
+        "name": "לחם שיפון 100%פרוס 750ג",
+        "prices": {
+            "Shufersal Deal": 17.5,
+            "Rami Levi": null,
+            "Yohananof": 14.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290004685195",
+        "name": "לחם 10 דגנים פרוס 750גרם",
+        "prices": {
+            "Shufersal Deal": 17.5,
+            "Rami Levi": null,
+            "Yohananof": 14.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290004685430",
+        "name": "לחם הארץ כוסמין100% 500ג",
+        "prices": {
+            "Shufersal Deal": 17.5,
+            "Rami Levi": null,
+            "Yohananof": 14.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290004725600",
+        "name": "גבינה סקנדינבית31% משקל",
+        "prices": {
+            "Shufersal Deal": 86.0,
+            "Rami Levi": null,
+            "Yohananof": 75.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290004737719",
+        "name": "אספרגוס לבן שלם מקולף330",
+        "prices": {
+            "Shufersal Deal": 11.9,
+            "Rami Levi": 13.1,
+            "Yohananof": 11.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290004861025",
+        "name": "גבינה בולגרית 5% במשקל",
+        "prices": {
+            "Shufersal Deal": 59.0,
+            "Rami Levi": null,
+            "Yohananof": 52.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290005079290",
+        "name": "נעם גבינה צהובה15% משקל",
+        "prices": {
+            "Shufersal Deal": 83.0,
+            "Rami Levi": null,
+            "Yohananof": 79.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290005287206",
+        "name": "טונה סטארקיסט בשמן160*4ג",
+        "prices": {
+            "Shufersal Deal": 25.9,
+            "Rami Levi": 26.9,
+            "Yohananof": 25.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290005287251",
+        "name": "טונה סטארקיסט במים4*160ג",
+        "prices": {
+            "Shufersal Deal": 25.9,
+            "Rami Levi": 26.9,
+            "Yohananof": 25.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290005431883",
+        "name": "מלבי חלבי 165 גרם",
+        "prices": {
+            "Shufersal Deal": 8.5,
+            "Rami Levi": null,
+            "Yohananof": 7.6
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290005838002",
+        "name": "דניאלה מעדן גבינה 88 גרם",
+        "prices": {
+            "Shufersal Deal": 4.2,
+            "Rami Levi": null,
+            "Yohananof": 3.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290005838613",
+        "name": "סקי מעדן גבינה וניל 125ג",
+        "prices": {
+            "Shufersal Deal": 4.4,
+            "Rami Levi": null,
+            "Yohananof": 4.2
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290005839078",
+        "name": "דנונה ביו 3% 8*150 גרם",
+        "prices": {
+            "Shufersal Deal": 18.9,
+            "Rami Levi": 21.2,
+            "Yohananof": 18.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290005839313",
+        "name": "מילקי טופ שוקול.מגולג141",
+        "prices": {
+            "Shufersal Deal": 4.9,
+            "Rami Levi": 5.5,
+            "Yohananof": 4.8
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290006271655",
+        "name": "מיני בורקס גבינה 800 גרם",
+        "prices": {
+            "Shufersal Deal": 29.9,
+            "Rami Levi": null,
+            "Yohananof": 28.1
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290006492432",
+        "name": "גבינה מוצרלה בייבי 150גר",
+        "prices": {
+            "Shufersal Deal": 17.9,
+            "Rami Levi": null,
+            "Yohananof": 15.6
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290006492852",
+        "name": "גבינה לבנה 5% עיזים 250ג",
+        "prices": {
+            "Shufersal Deal": 23.9,
+            "Rami Levi": null,
+            "Yohananof": 17.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290006664655",
+        "name": "אקטימל לבן 8*100 מ\"ל",
+        "prices": {
+            "Shufersal Deal": 21.1,
+            "Rami Levi": 22.9,
+            "Yohananof": 20.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290006664990",
+        "name": "דנונה ביו 1.7% 8*150גרם",
+        "prices": {
+            "Shufersal Deal": 18.9,
+            "Rami Levi": 21.2,
+            "Yohananof": 18.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290006983787",
+        "name": "עוגת שוקולד ציפס 400 גר",
+        "prices": {
+            "Shufersal Deal": 14.9,
+            "Rami Levi": 14.6,
+            "Yohananof": 11.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290008175173",
+        "name": "חמאה לל\"ת מלח200ג ואליו",
+        "prices": {
+            "Shufersal Deal": 16.9,
+            "Rami Levi": 18.7,
+            "Yohananof": 16.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290008464741",
+        "name": "בירה גולדסטאר בק330*6מ\"ל",
+        "prices": {
+            "Shufersal Deal": 36.9,
+            "Rami Levi": 42.7,
+            "Yohananof": 34.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290008713900",
+        "name": "לחם שיפון עגול 750 גרם",
+        "prices": {
+            "Shufersal Deal": 15.5,
+            "Rami Levi": null,
+            "Yohananof": 14.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290008747547",
+        "name": "תפוציפס קראנצ' ט.טבעי200",
+        "prices": {
+            "Shufersal Deal": 10.9,
+            "Rami Levi": 12.5,
+            "Yohananof": 10.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290008748384",
+        "name": "שוקו.מריר70% 100 ספלנדיד",
+        "prices": {
+            "Shufersal Deal": 14.9,
+            "Rami Levi": 16.2,
+            "Yohananof": 14.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290008750677",
+        "name": "שוקולד פרה ממולדה100ג",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 10.0,
+            "Yohananof": 8.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290008752244",
+        "name": "תפוציפס קראנצ גריל 50ג",
+        "prices": {
+            "Shufersal Deal": 4.5,
+            "Rami Levi": 5.2,
+            "Yohananof": 4.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290008753111",
+        "name": "תפוציפס מקסיקני 50 גרם",
+        "prices": {
+            "Shufersal Deal": 4.5,
+            "Rami Levi": 5.2,
+            "Yohananof": 4.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290008801522",
+        "name": "יין קונקורד 750מ\"ל",
+        "prices": {
+            "Shufersal Deal": 21.9,
+            "Rami Levi": 23.9,
+            "Yohananof": 18.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290008802512",
+        "name": "יין אדום יבש וינו 750מ\"ל",
+        "prices": {
+            "Shufersal Deal": 23.9,
+            "Rami Levi": 26.9,
+            "Yohananof": 21.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290008802529",
+        "name": "וינו לבן חצי יבש 750 מ\"ל",
+        "prices": {
+            "Shufersal Deal": 23.9,
+            "Rami Levi": 26.9,
+            "Yohananof": 21.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290010066582",
+        "name": "טונה בשמן קנולה פילטונה4",
+        "prices": {
+            "Shufersal Deal": 25.5,
+            "Rami Levi": null,
+            "Yohananof": 25.1
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290010116348",
+        "name": "מיקס מיני חטיפי עלית390ג",
+        "prices": {
+            "Shufersal Deal": 31.9,
+            "Rami Levi": 34.2,
+            "Yohananof": 29.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290010154678",
+        "name": "אריסה מרוקאית 250 גרם",
+        "prices": {
+            "Shufersal Deal": 16.5,
+            "Rami Levi": 18.2,
+            "Yohananof": 15.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290010259830",
+        "name": "מנת השף נודלס טעם סיני70",
+        "prices": {
+            "Shufersal Deal": 5.5,
+            "Rami Levi": 5.7,
+            "Yohananof": 4.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290011017866",
+        "name": "פחית קוקה קולה 330 מ\"ל",
+        "prices": {
+            "Shufersal Deal": 6.9,
+            "Rami Levi": 6.9,
+            "Yohananof": 4.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290011017873",
+        "name": "פחית קוקה קולה זירו330מל",
+        "prices": {
+            "Shufersal Deal": 6.9,
+            "Rami Levi": 6.9,
+            "Yohananof": 4.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290011018832",
+        "name": "קוקה קולה 6*330 מ\"ל",
+        "prices": {
+            "Shufersal Deal": 24.9,
+            "Rami Levi": 25.8,
+            "Yohananof": 20.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290011018917",
+        "name": "קוקה קולה זירו 330*6 מ\"ל",
+        "prices": {
+            "Shufersal Deal": 24.9,
+            "Rami Levi": 25.8,
+            "Yohananof": 20.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290011194246",
+        "name": "קוטג' 5% 250ג שטראוס",
+        "prices": {
+            "Shufersal Deal": 6.7,
+            "Rami Levi": 7.1,
+            "Yohananof": 6.7
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290011239336",
+        "name": "חלבה מחרום ללת\"ס 400 גרם",
+        "prices": {
+            "Shufersal Deal": 22.9,
+            "Rami Levi": null,
+            "Yohananof": 15.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290011378028",
+        "name": "חלבה וניל ללת\"ס 350 גרם",
+        "prices": {
+            "Shufersal Deal": 17.3,
+            "Rami Levi": null,
+            "Yohananof": 17.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290011378769",
+        "name": "חטיפי חלבה וניל 18*7 גרם",
+        "prices": {
+            "Shufersal Deal": 13.9,
+            "Rami Levi": null,
+            "Yohananof": 12.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290011438142",
+        "name": "משקה חלב בטעם קפה 350מ\"ל",
+        "prices": {
+            "Shufersal Deal": 6.6,
+            "Rami Levi": 6.9,
+            "Yohananof": 6.3
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290011499112",
+        "name": "גבינה בולגרית 16% 250גרם",
+        "prices": {
+            "Shufersal Deal": 29.9,
+            "Rami Levi": null,
+            "Yohananof": 25.7
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290011499129",
+        "name": "קוב.בולג.מעודנת 5% 200ג",
+        "prices": {
+            "Shufersal Deal": 25.9,
+            "Rami Levi": 26.8,
+            "Yohananof": 23.7
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290011499419",
+        "name": "גבינה במרקם שמנת 5% שומן",
+        "prices": {
+            "Shufersal Deal": 15.9,
+            "Rami Levi": 15.9,
+            "Yohananof": 14.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290012227974",
+        "name": "פסטרמה בדבש דק דק דק",
+        "prices": {
+            "Shufersal Deal": 16.5,
+            "Rami Levi": 18.1,
+            "Yohananof": 15.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290012309939",
+        "name": "חלבה מסולסלת 500 גרם",
+        "prices": {
+            "Shufersal Deal": 16.9,
+            "Rami Levi": null,
+            "Yohananof": 17.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290012576607",
+        "name": "קברנה פרמייר 750 מ\"ל",
+        "prices": {
+            "Shufersal Deal": 27.9,
+            "Rami Levi": 29.9,
+            "Yohananof": 27.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290012803055",
+        "name": "סוכרלוז 100 שקיות",
+        "prices": {
+            "Shufersal Deal": 24.9,
+            "Rami Levi": null,
+            "Yohananof": 20.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290012901355",
+        "name": "מקרוני+רוטב גבינה206ג",
+        "prices": {
+            "Shufersal Deal": 12.9,
+            "Rami Levi": null,
+            "Yohananof": 11.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290013117212",
+        "name": "בורקס פילו גבינה 600 גרם",
+        "prices": {
+            "Shufersal Deal": 24.9,
+            "Rami Levi": null,
+            "Yohananof": 21.1
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290013121752",
+        "name": "לחם לבן ביתי ללא גלוטן 7",
+        "prices": {
+            "Shufersal Deal": 23.9,
+            "Rami Levi": null,
+            "Yohananof": 22.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290013145901",
+        "name": "סודה לשתיה 100 גרם",
+        "prices": {
+            "Shufersal Deal": 2.9,
+            "Rami Levi": 2.8,
+            "Yohananof": 2.4
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290013145949",
+        "name": "אבקת סוכר אריזת פטנט250ג",
+        "prices": {
+            "Shufersal Deal": 19.9,
+            "Rami Levi": null,
+            "Yohananof": 17.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290013145970",
+        "name": "קורנפלור 200 גרם",
+        "prices": {
+            "Shufersal Deal": 4.9,
+            "Rami Levi": 5.0,
+            "Yohananof": 4.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290013269621",
+        "name": "ריצפז פרש הום בוטיק 2ל",
+        "prices": {
+            "Shufersal Deal": 19.9,
+            "Rami Levi": 24.8,
+            "Yohananof": 19.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290013284310",
+        "name": "פריניר רוטב לפסטה 240גר",
+        "prices": {
+            "Shufersal Deal": 5.9,
+            "Rami Levi": null,
+            "Yohananof": 5.5
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290013358356",
+        "name": "פירורי לחם מוזהבים320גרם",
+        "prices": {
+            "Shufersal Deal": 8.3,
+            "Rami Levi": 8.1,
+            "Yohananof": 7.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290013531117",
+        "name": "רוטב פסטה לילדים יכין",
+        "prices": {
+            "Shufersal Deal": 6.9,
+            "Rami Levi": null,
+            "Yohananof": 6.5
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290013585387",
+        "name": "קולה זירו 1 ליטר",
+        "prices": {
+            "Shufersal Deal": 7.5,
+            "Rami Levi": 7.6,
+            "Yohananof": 6.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290013585394",
+        "name": "קוקה קולה 1 ליטר",
+        "prices": {
+            "Shufersal Deal": 7.5,
+            "Rami Levi": 7.6,
+            "Yohananof": 6.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290014758162",
+        "name": "חלב עיזים מלא 3.6% 1ליטר",
+        "prices": {
+            "Shufersal Deal": 18.5,
+            "Rami Levi": null,
+            "Yohananof": 17.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290014758681",
+        "name": "קוטג 1% 250 גרם",
+        "prices": {
+            "Shufersal Deal": 6.1,
+            "Rami Levi": null,
+            "Yohananof": 6.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290014940901",
+        "name": "לחם פשוט מלא 750 גרם",
+        "prices": {
+            "Shufersal Deal": 15.5,
+            "Rami Levi": 17.3,
+            "Yohananof": 15.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290015129121",
+        "name": "אטריות קונגאק נודלס270גר",
+        "prices": {
+            "Shufersal Deal": 13.5,
+            "Rami Levi": 12.9,
+            "Yohananof": 13.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290015129756",
+        "name": "פסטה שב.שועל פטוציני270ג",
+        "prices": {
+            "Shufersal Deal": 13.5,
+            "Rami Levi": null,
+            "Yohananof": 13.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290015324571",
+        "name": "פפריקה מתוקה בשמן 400 גר",
+        "prices": {
+            "Shufersal Deal": 23.9,
+            "Rami Levi": null,
+            "Yohananof": 22.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290015597210",
+        "name": "מאג.קורנטו וניל פרוה6*63",
+        "prices": {
+            "Shufersal Deal": 38.9,
+            "Rami Levi": 38.5,
+            "Yohananof": 35.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290016246018",
+        "name": "חלבה מיקס פינוקיות20*10ג",
+        "prices": {
+            "Shufersal Deal": 14.5,
+            "Rami Levi": null,
+            "Yohananof": 13.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290016509809",
+        "name": "גל כב.פרסיל קולור 2.5 ל",
+        "prices": {
+            "Shufersal Deal": 39.9,
+            "Rami Levi": 40.4,
+            "Yohananof": 34.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290016818659",
+        "name": "רביולי במילוי גבינה 300ג",
+        "prices": {
+            "Shufersal Deal": 19.9,
+            "Rami Levi": null,
+            "Yohananof": 19.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290016867053",
+        "name": "לחם מחמצת כוסמין מלא450ג",
+        "prices": {
+            "Shufersal Deal": 19.9,
+            "Rami Levi": 22.2,
+            "Yohananof": null
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290016967074",
+        "name": "לחם אנג'ל חיטה מלאה750ג",
+        "prices": {
+            "Shufersal Deal": 17.9,
+            "Rami Levi": null,
+            "Yohananof": 16.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290017065007",
+        "name": "מוצרלה פרוסות22% 150 גרם",
+        "prices": {
+            "Shufersal Deal": 23.9,
+            "Rami Levi": 23.9,
+            "Yohananof": 20.1
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290017065168",
+        "name": "גבינה כחולה 30% שומן100ג",
+        "prices": {
+            "Shufersal Deal": 21.9,
+            "Rami Levi": null,
+            "Yohananof": 19.1
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290017105895",
+        "name": "גרג.חומוס הכנה ביתית560ג",
+        "prices": {
+            "Shufersal Deal": 10.0,
+            "Rami Levi": 10.7,
+            "Yohananof": 10.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290017142395",
+        "name": "פסטה+טונה בשמן זית 160ג",
+        "prices": {
+            "Shufersal Deal": 12.9,
+            "Rami Levi": null,
+            "Yohananof": 14.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290017304885",
+        "name": "לחם שיפון מלא פרוס 750גר",
+        "prices": {
+            "Shufersal Deal": 17.9,
+            "Rami Levi": null,
+            "Yohananof": 16.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290017812571",
+        "name": "מיץ ענבים תירוש אדום 1 ל",
+        "prices": {
+            "Shufersal Deal": 19.9,
+            "Rami Levi": 21.9,
+            "Yohananof": 19.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290017928821",
+        "name": "גריסיני קלאסי 200 גרם",
+        "prices": {
+            "Shufersal Deal": 12.9,
+            "Rami Levi": 14.0,
+            "Yohananof": 12.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290017947105",
+        "name": "לחם בסגנון אמריקה 500 גר",
+        "prices": {
+            "Shufersal Deal": 17.5,
+            "Rami Levi": null,
+            "Yohananof": 14.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290017947464",
+        "name": "פיתות כוסמין 8יח 400 גרם",
+        "prices": {
+            "Shufersal Deal": 17.9,
+            "Rami Levi": 18.6,
+            "Yohananof": 15.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290017947495",
+        "name": "לחמנ.כוסמין אנג'ל6יח450ג",
+        "prices": {
+            "Shufersal Deal": 16.9,
+            "Rami Levi": 17.5,
+            "Yohananof": 15.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290017947891",
+        "name": "לחם כוסמין+חיטה מלאה750ג",
+        "prices": {
+            "Shufersal Deal": 17.9,
+            "Rami Levi": null,
+            "Yohananof": 16.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290018091531",
+        "name": "חטיפי פיצה עם גבינה 650ג",
+        "prices": {
+            "Shufersal Deal": 34.9,
+            "Rami Levi": null,
+            "Yohananof": 30.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290018441565",
+        "name": "גלידה וניל פקאן בלונדי",
+        "prices": {
+            "Shufersal Deal": 22.9,
+            "Rami Levi": 25.4,
+            "Yohananof": 21.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290018471906",
+        "name": "שוופס לימונדה ורודה1.5ל",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 8.3,
+            "Yohananof": 7.3
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290018471913",
+        "name": "שוופס מוגז תפוחים1.5ל'",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 8.3,
+            "Yohananof": 7.3
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290018500361",
+        "name": "לחם אחיד פרוס 900 גרם",
+        "prices": {
+            "Shufersal Deal": 10.05,
+            "Rami Levi": null,
+            "Yohananof": 8.4
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290018540817",
+        "name": "לחם מחמצת כוסמין 500 גרם",
+        "prices": {
+            "Shufersal Deal": 19.9,
+            "Rami Levi": null,
+            "Yohananof": 19.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290018540824",
+        "name": "לחם מחמצת כפרי 500 גרם",
+        "prices": {
+            "Shufersal Deal": 18.9,
+            "Rami Levi": null,
+            "Yohananof": 18.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290018540831",
+        "name": "לחם מחמצת ח.מלאה+גרעי500",
+        "prices": {
+            "Shufersal Deal": 18.9,
+            "Rami Levi": 21.9,
+            "Yohananof": 18.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290018677612",
+        "name": "ראמן אטריות אורז 55 גרם",
+        "prices": {
+            "Shufersal Deal": 13.5,
+            "Rami Levi": null,
+            "Yohananof": 13.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290018893425",
+        "name": "ממרח חלב ואגוזי לוז700גר",
+        "prices": {
+            "Shufersal Deal": 25.9,
+            "Rami Levi": null,
+            "Yohananof": 24.1
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290019056041",
+        "name": "שוופס למונייד ל.סוכר1.5ל",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": null,
+            "Yohananof": 7.3
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290019056065",
+        "name": "שוופס מוגז עדין פ.יער1.5",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 8.0,
+            "Yohananof": 7.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290019056164",
+        "name": "שוופס סודה 4*1.5 ליטר",
+        "prices": {
+            "Shufersal Deal": 13.9,
+            "Rami Levi": 14.3,
+            "Yohananof": 12.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290019056331",
+        "name": "שוופס טוניק ללא סוכר1.5ל",
+        "prices": {
+            "Shufersal Deal": 11.9,
+            "Rami Levi": null,
+            "Yohananof": 9.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290019056577",
+        "name": "ספרינג משקה מנגו 1.5 ל'",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": 8.3,
+            "Yohananof": 7.3
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290019056584",
+        "name": "ספרינג משקה תפוזים 1.5ל'",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": 8.3,
+            "Yohananof": 7.3
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290019056591",
+        "name": "ספרינג ענבים 1.5 ליטר",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": 8.3,
+            "Yohananof": 7.3
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290019056645",
+        "name": "ספרינג אגס סברס תפוח1.5ל",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": 8.3,
+            "Yohananof": 7.3
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290019056652",
+        "name": "ספרינג אננס בננה1.5 ליטר",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": 8.3,
+            "Yohananof": 7.3
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290019079736",
+        "name": "מטבעות שוק.חלב 250ג",
+        "prices": {
+            "Shufersal Deal": 25.9,
+            "Rami Levi": null,
+            "Yohananof": 25.1
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290019196297",
+        "name": "טונה בהירה שמן צילי חריף",
+        "prices": {
+            "Shufersal Deal": 13.5,
+            "Rami Levi": null,
+            "Yohananof": 12.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290019644385",
+        "name": "מרשמלו טוויסטר 150 גרם",
+        "prices": {
+            "Shufersal Deal": 6.5,
+            "Rami Levi": 6.9,
+            "Yohananof": 5.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290019816713",
+        "name": "מאגדת לייט אייס קפה52*6ג",
+        "prices": {
+            "Shufersal Deal": 29.9,
+            "Rami Levi": null,
+            "Yohananof": 29.1
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290020216953",
+        "name": "לחם פרו 500 גרם",
+        "prices": {
+            "Shufersal Deal": 21.9,
+            "Rami Levi": null,
+            "Yohananof": 21.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290100680711",
+        "name": "פירורית זהב 350ג אסם",
+        "prices": {
+            "Shufersal Deal": 10.0,
+            "Rami Levi": 9.4,
+            "Yohananof": 8.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290100685136",
+        "name": "מרק בטעם עוף פרווה 1 ק\"ג",
+        "prices": {
+            "Shufersal Deal": 17.9,
+            "Rami Levi": 15.2,
+            "Yohananof": 12.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290100685341",
+        "name": "מרק בטעם עוף זך 400 גרם",
+        "prices": {
+            "Shufersal Deal": 19.9,
+            "Rami Levi": 17.7,
+            "Yohananof": 15.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290100687109",
+        "name": "במבה נוגט 60 גרם",
+        "prices": {
+            "Shufersal Deal": 4.9,
+            "Rami Levi": 5.9,
+            "Yohananof": 4.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290100700020",
+        "name": "גריסי פנינה 500ג סוגת",
+        "prices": {
+            "Shufersal Deal": 6.9,
+            "Rami Levi": 7.9,
+            "Yohananof": 6.3
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290100700075",
+        "name": "פירורי לחם 200ג סוגת",
+        "prices": {
+            "Shufersal Deal": 4.9,
+            "Rami Levi": null,
+            "Yohananof": 3.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290100700396",
+        "name": "אורז יסמין קלאסי 1ק סוגת",
+        "prices": {
+            "Shufersal Deal": 12.9,
+            "Rami Levi": null,
+            "Yohananof": 11.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290100701157",
+        "name": "אורז להכנת סושי 1ק סוגת",
+        "prices": {
+            "Shufersal Deal": 13.9,
+            "Rami Levi": null,
+            "Yohananof": 12.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290100701577",
+        "name": "קמח לחם 1 ק\"ג סוגת",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": null,
+            "Yohananof": 7.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290100702611",
+        "name": "פתיתים אורז500ג סוגת",
+        "prices": {
+            "Shufersal Deal": 6.5,
+            "Rami Levi": null,
+            "Yohananof": 5.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290100704707",
+        "name": "אורז מיקס 500 גרם סוגת",
+        "prices": {
+            "Shufersal Deal": 10.9,
+            "Rami Levi": null,
+            "Yohananof": 9.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290100704943",
+        "name": "שימורי שעועית מנומרת 400",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": 8.9,
+            "Yohananof": 7.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290100704967",
+        "name": "שימורי עדשים ירוקות 400ג",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": 8.9,
+            "Yohananof": 7.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290100704974",
+        "name": "שימורי חומוס 400ג סוגת",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": 8.9,
+            "Yohananof": 7.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290100858592",
+        "name": "קקאו עלית 150 גרם",
+        "prices": {
+            "Shufersal Deal": 14.9,
+            "Rami Levi": 18.9,
+            "Yohananof": 13.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290101114369",
+        "name": "שלישיה גלית תות חלבי 99ק",
+        "prices": {
+            "Shufersal Deal": 10.0,
+            "Rami Levi": null,
+            "Yohananof": 10.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290101551638",
+        "name": "צ'יטוס קטשופ מארז 20*10",
+        "prices": {
+            "Shufersal Deal": 15.3,
+            "Rami Levi": 15.5,
+            "Yohananof": 14.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290102030330",
+        "name": "תפוציפס מקסיקני 200 גרם",
+        "prices": {
+            "Shufersal Deal": 10.9,
+            "Rami Levi": 12.5,
+            "Yohananof": 10.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290102394845",
+        "name": "גבינה צהובה נעם 9% 200 ג",
+        "prices": {
+            "Shufersal Deal": 21.9,
+            "Rami Levi": null,
+            "Yohananof": 19.8
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290102396665",
+        "name": "גבינה צהובה נעם15% 200ג",
+        "prices": {
+            "Shufersal Deal": 20.6,
+            "Rami Levi": null,
+            "Yohananof": 18.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290102397204",
+        "name": "גבינה צהובה נעם 22% 200ג",
+        "prices": {
+            "Shufersal Deal": 19.9,
+            "Rami Levi": null,
+            "Yohananof": 18.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290102397334",
+        "name": "גבינה בולגרית 5% 250 גרם",
+        "prices": {
+            "Shufersal Deal": 24.9,
+            "Rami Levi": null,
+            "Yohananof": 24.6
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290102398065",
+        "name": "חלב 3% בקרטון מהדרין 2ל'",
+        "prices": {
+            "Shufersal Deal": 14.56,
+            "Rami Levi": null,
+            "Yohananof": 14.56
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290102399796",
+        "name": "מולר אקטיב לבן חלבון 25ג",
+        "prices": {
+            "Shufersal Deal": 6.9,
+            "Rami Levi": null,
+            "Yohananof": 6.6
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290103401429",
+        "name": "קפה פלטינום ברזיל200עלית",
+        "prices": {
+            "Shufersal Deal": 33.9,
+            "Rami Levi": null,
+            "Yohananof": 31.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290104061417",
+        "name": "חומוס עם טחינה אחלה 400ג",
+        "prices": {
+            "Shufersal Deal": 11.9,
+            "Rami Levi": 12.9,
+            "Yohananof": 11.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290104061448",
+        "name": "חומוס עם חריף אחלה 400 ג",
+        "prices": {
+            "Shufersal Deal": 11.9,
+            "Rami Levi": 12.9,
+            "Yohananof": 11.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290104508943",
+        "name": "במבה חטיף בוטנים 200 גרם",
+        "prices": {
+            "Shufersal Deal": 11.9,
+            "Rami Levi": 11.5,
+            "Yohananof": 9.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290105360250",
+        "name": "קפסולות קפה עוצמה9 50גרם",
+        "prices": {
+            "Shufersal Deal": 18.7,
+            "Rami Levi": null,
+            "Yohananof": 16.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290105362339",
+        "name": "שמנת לבישול 15% 250 מ\"ל",
+        "prices": {
+            "Shufersal Deal": 8.5,
+            "Rami Levi": 9.4,
+            "Yohananof": 8.1
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290105362377",
+        "name": "כיף כף מגדים 45 גרם",
+        "prices": {
+            "Shufersal Deal": 4.9,
+            "Rami Levi": 5.8,
+            "Yohananof": 4.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290105363572",
+        "name": "שוק.פרה ביסקויט מגדים100",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 10.0,
+            "Yohananof": 8.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290105364883",
+        "name": "ביסקוויט עד חצות לבן200ג",
+        "prices": {
+            "Shufersal Deal": 17.9,
+            "Rami Levi": 18.5,
+            "Yohananof": 17.7
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290105368904",
+        "name": "שמנת מתוקה להקצפה32% 250",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 9.7,
+            "Yohananof": 8.3
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290106520066",
+        "name": "רבע לשבע גלילית אגוז160ג",
+        "prices": {
+            "Shufersal Deal": 14.9,
+            "Rami Levi": 16.2,
+            "Yohananof": 14.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290106521049",
+        "name": "סלט קוביות סלק 400 גרם",
+        "prices": {
+            "Shufersal Deal": 16.5,
+            "Rami Levi": 18.5,
+            "Yohananof": 15.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290106524439",
+        "name": "תפוציפס פופס טבעי 60גרם",
+        "prices": {
+            "Shufersal Deal": 4.5,
+            "Rami Levi": 4.7,
+            "Yohananof": 4.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290106526822",
+        "name": "פריכיות תחתית חלב 80גרם",
+        "prices": {
+            "Shufersal Deal": 9.9,
+            "Rami Levi": 10.4,
+            "Yohananof": 9.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290106528628",
+        "name": "דוריטוס Dippas טבעי185ג",
+        "prices": {
+            "Shufersal Deal": 9.5,
+            "Rami Levi": 10.1,
+            "Yohananof": 8.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290106574953",
+        "name": "בייגלה שטוחים שומשום300ג",
+        "prices": {
+            "Shufersal Deal": 14.0,
+            "Rami Levi": 12.2,
+            "Yohananof": 10.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290106576513",
+        "name": "חומוס צבר 400 גרם",
+        "prices": {
+            "Shufersal Deal": 12.5,
+            "Rami Levi": 12.5,
+            "Yohananof": 10.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290106576537",
+        "name": "חומוס מסעדה צבר 700גרם",
+        "prices": {
+            "Shufersal Deal": 11.9,
+            "Rami Levi": 15.5,
+            "Yohananof": 11.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290106577503",
+        "name": "חציל במיונז מרובע 400גרם",
+        "prices": {
+            "Shufersal Deal": 15.5,
+            "Rami Levi": 17.5,
+            "Yohananof": 12.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290106658479",
+        "name": "טורטית וופל מצופה שוק40ג",
+        "prices": {
+            "Shufersal Deal": 4.9,
+            "Rami Levi": 5.8,
+            "Yohananof": 4.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290106720626",
+        "name": "ציטוס גבינה 80 גרם",
+        "prices": {
+            "Shufersal Deal": 5.3,
+            "Rami Levi": null,
+            "Yohananof": 4.6
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290107646062",
+        "name": "מרק בצל קנור 400 גרם",
+        "prices": {
+            "Shufersal Deal": 22.9,
+            "Rami Levi": 28.8,
+            "Yohananof": 22.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290107871990",
+        "name": "פסטה צינורות 500 גרם",
+        "prices": {
+            "Shufersal Deal": 6.5,
+            "Rami Levi": null,
+            "Yohananof": 5.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290107932080",
+        "name": "חלב מועשר3%בקבוק1ל יטבתה",
+        "prices": {
+            "Shufersal Deal": 9.2,
+            "Rami Levi": null,
+            "Yohananof": 8.6
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290107932134",
+        "name": "חלב מועשר1% בקבוק 1ליטר",
+        "prices": {
+            "Shufersal Deal": 9.7,
+            "Rami Levi": null,
+            "Yohananof": 8.6
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290107936309",
+        "name": "יוגורט יווני לבן6.5% 130",
+        "prices": {
+            "Shufersal Deal": 4.0,
+            "Rami Levi": 4.1,
+            "Yohananof": 3.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290107938396",
+        "name": "מארז אקטימל תות 8*100מ\"ל",
+        "prices": {
+            "Shufersal Deal": 21.1,
+            "Rami Levi": 23.9,
+            "Yohananof": 20.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290107944472",
+        "name": "סימפוניה שום שמיר5% 200ג",
+        "prices": {
+            "Shufersal Deal": 10.9,
+            "Rami Levi": 12.5,
+            "Yohananof": 11.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290107945165",
+        "name": "קונפיטורת משמש 340 גרם",
+        "prices": {
+            "Shufersal Deal": 15.9,
+            "Rami Levi": 19.2,
+            "Yohananof": 13.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290107954976",
+        "name": "משקה פרו קפה יטבתה350מ",
+        "prices": {
+            "Shufersal Deal": 7.5,
+            "Rami Levi": null,
+            "Yohananof": 7.2
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290108356113",
+        "name": "כיף תחליב רח.חלב ודבש700",
+        "prices": {
+            "Shufersal Deal": 11.9,
+            "Rami Levi": null,
+            "Yohananof": 10.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290108357769",
+        "name": "כיף מרכך לשיער רגיל700מל",
+        "prices": {
+            "Shufersal Deal": 11.9,
+            "Rami Levi": 13.7,
+            "Yohananof": 11.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290108509700",
+        "name": "אורז פרסי דאווט 1 ק\"ג",
+        "prices": {
+            "Shufersal Deal": 12.5,
+            "Rami Levi": null,
+            "Yohananof": 8.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290109351971",
+        "name": "פיטנס פריכיות שוק.חלב84ג",
+        "prices": {
+            "Shufersal Deal": 16.9,
+            "Rami Levi": null,
+            "Yohananof": 12.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290109580432",
+        "name": "פסטרמה אקסמעושנת דק120",
+        "prices": {
+            "Shufersal Deal": 16.5,
+            "Rami Levi": 18.1,
+            "Yohananof": 15.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290109581132",
+        "name": "פסטה בלונז 400 גרם",
+        "prices": {
+            "Shufersal Deal": 34.9,
+            "Rami Levi": null,
+            "Yohananof": 16.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290109581514",
+        "name": "פסטה עם נקניקיות350ג",
+        "prices": {
+            "Shufersal Deal": 19.9,
+            "Rami Levi": null,
+            "Yohananof": 19.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290109923352",
+        "name": "דורגול מסיר א.מקומקום750",
+        "prices": {
+            "Shufersal Deal": 30.9,
+            "Rami Levi": 31.7,
+            "Yohananof": 27.1
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110000493",
+        "name": "חמאת בוטנים קרנצי350 ג",
+        "prices": {
+            "Shufersal Deal": 15.9,
+            "Rami Levi": 16.8,
+            "Yohananof": 14.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110110369",
+        "name": "קרלסברג לומה 6בק* 330מל",
+        "prices": {
+            "Shufersal Deal": 37.9,
+            "Rami Levi": 42.9,
+            "Yohananof": 39.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110114794",
+        "name": "נביעות+טעם אפרסק 1.5ליטר",
+        "prices": {
+            "Shufersal Deal": 9.5,
+            "Rami Levi": 10.6,
+            "Yohananof": 9.3
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110114855",
+        "name": "מים מינרל.נביעות 1.5*6ל",
+        "prices": {
+            "Shufersal Deal": 16.5,
+            "Rami Levi": 17.4,
+            "Yohananof": 16.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110114985",
+        "name": "פריגת אשכוליות 1.5 ליטר",
+        "prices": {
+            "Shufersal Deal": 8.5,
+            "Rami Levi": 9.5,
+            "Yohananof": 8.2
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110115203",
+        "name": "קוקה קולה בקבוק 1.5 ליטר",
+        "prices": {
+            "Shufersal Deal": 8.5,
+            "Rami Levi": 8.9,
+            "Yohananof": 8.2
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110115227",
+        "name": "קוקה קולה זירו 1.5 ליטר",
+        "prices": {
+            "Shufersal Deal": 8.5,
+            "Rami Levi": 8.9,
+            "Yohananof": 8.2
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110115265",
+        "name": "ספרייט ליים 1.5 ליטר",
+        "prices": {
+            "Shufersal Deal": 8.5,
+            "Rami Levi": 9.2,
+            "Yohananof": 8.2
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110115425",
+        "name": "פיוז-טי לימון נענע 1.5",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 10.0,
+            "Yohananof": 8.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110115463",
+        "name": "פיוז-טי אפרסק 1.5 ל'",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 10.0,
+            "Yohananof": 8.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110115623",
+        "name": "פיוז-טי זירו אפרסק 1.5",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 10.0,
+            "Yohananof": 8.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110321277",
+        "name": "קוטג' בקטנה 5% 100 גרם",
+        "prices": {
+            "Shufersal Deal": 3.2,
+            "Rami Levi": 3.4,
+            "Yohananof": 2.8
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110322021",
+        "name": "טופו עם בזיליקום",
+        "prices": {
+            "Shufersal Deal": 14.5,
+            "Rami Levi": 15.2,
+            "Yohananof": 13.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110323301",
+        "name": "גבינת טל העמק 32% 200 גר",
+        "prices": {
+            "Shufersal Deal": 22.9,
+            "Rami Levi": 23.8,
+            "Yohananof": 21.1
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110324773",
+        "name": "משק.חלב גו וניל+חלבון340",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": null,
+            "Yohananof": 8.2
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290110325619",
+        "name": "משקה שיבולת שועל1ל תנובה",
+        "prices": {
+            "Shufersal Deal": 13.9,
+            "Rami Levi": 16.4,
+            "Yohananof": 12.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110325626",
+        "name": "משקה שקדים ללת\"ס 1 ליטר",
+        "prices": {
+            "Shufersal Deal": 13.9,
+            "Rami Levi": 15.3,
+            "Yohananof": 12.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110325893",
+        "name": "אייס קפה GO תנובה 340מ\"ל",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": null,
+            "Yohananof": 8.2
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290110327514",
+        "name": "משקה ש.שועל אגוז לוז 1ל",
+        "prices": {
+            "Shufersal Deal": 13.9,
+            "Rami Levi": 15.3,
+            "Yohananof": 12.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110328627",
+        "name": "יוג.גו קרמי בננה קרמל200",
+        "prices": {
+            "Shufersal Deal": 6.7,
+            "Rami Levi": 7.2,
+            "Yohananof": 6.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110328764",
+        "name": "יוגורט גו קרמי תות0% 200",
+        "prices": {
+            "Shufersal Deal": 6.7,
+            "Rami Levi": 7.2,
+            "Yohananof": 6.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110328788",
+        "name": "יוג.גו קרמי אפרסק0% 200ג",
+        "prices": {
+            "Shufersal Deal": 6.7,
+            "Rami Levi": 7.2,
+            "Yohananof": 6.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110329136",
+        "name": "מעדן חלב גו שוקולד 120גר",
+        "prices": {
+            "Shufersal Deal": 6.3,
+            "Rami Levi": null,
+            "Yohananof": 5.3
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290110329686",
+        "name": "משקה חלב GO עוגיות340מ\"ל",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": null,
+            "Yohananof": 8.2
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290110329952",
+        "name": "יוגורט גו סמיך קוקוס200ג",
+        "prices": {
+            "Shufersal Deal": 6.7,
+            "Rami Levi": 7.2,
+            "Yohananof": 6.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110553678",
+        "name": "קידס תפוציפס גלקסיה 40 ג",
+        "prices": {
+            "Shufersal Deal": 4.9,
+            "Rami Levi": 3.9,
+            "Yohananof": 3.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110554583",
+        "name": "צ'יטוס PUFFS גבינה20*10ג",
+        "prices": {
+            "Shufersal Deal": 15.3,
+            "Rami Levi": 18.5,
+            "Yohananof": 14.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110557102",
+        "name": "מעדן חלב שוקולד מועשר150",
+        "prices": {
+            "Shufersal Deal": 5.9,
+            "Rami Levi": 6.3,
+            "Yohananof": 5.4
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110558314",
+        "name": "דנונה פרו ל.סוכר פיסט200",
+        "prices": {
+            "Shufersal Deal": 6.5,
+            "Rami Levi": 7.0,
+            "Yohananof": 6.2
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110563431",
+        "name": "אייס קפה 1.6% קלאסי 230מ",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": null,
+            "Yohananof": 8.3
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290110563448",
+        "name": "אייס קפה 1.6% מעודן 230מ",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": null,
+            "Yohananof": 8.3
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290110563462",
+        "name": "חלב נטול לקטוז 2% 1 ליטר",
+        "prices": {
+            "Shufersal Deal": 9.9,
+            "Rami Levi": null,
+            "Yohananof": 9.4
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290110563851",
+        "name": "אנרגי תחתית שוק.חלב24*6ג",
+        "prices": {
+            "Shufersal Deal": 14.5,
+            "Rami Levi": null,
+            "Yohananof": 13.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290110564360",
+        "name": "חומוס עשיר ב40% טחינה400",
+        "prices": {
+            "Shufersal Deal": 14.9,
+            "Rami Levi": 15.9,
+            "Yohananof": 14.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110565435",
+        "name": "לימבו פטל קו חלבי 125גרם",
+        "prices": {
+            "Shufersal Deal": 2.3,
+            "Rami Levi": null,
+            "Yohananof": 2.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290110565527",
+        "name": "דנונה פרו 20ג חלבון 200ג",
+        "prices": {
+            "Shufersal Deal": 6.5,
+            "Rami Levi": 6.9,
+            "Yohananof": 6.2
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110566975",
+        "name": "דנונ.פרו20ג חלבון תות200",
+        "prices": {
+            "Shufersal Deal": 6.5,
+            "Rami Levi": null,
+            "Yohananof": 6.2
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290110573751",
+        "name": "מילקי טופ עדשים 148 גרם",
+        "prices": {
+            "Shufersal Deal": 4.9,
+            "Rami Levi": 5.5,
+            "Yohananof": 4.8
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290110577254",
+        "name": "משקה פרו קפה לל\"ס 350מ\"ל",
+        "prices": {
+            "Shufersal Deal": 7.5,
+            "Rami Levi": null,
+            "Yohananof": 7.2
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290110579302",
+        "name": "קפה פלטינום סטורנג 200 ג",
+        "prices": {
+            "Shufersal Deal": 33.9,
+            "Rami Levi": null,
+            "Yohananof": 31.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290110579463",
+        "name": "שוק.חלב שברי אגוזים 100ג",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 9.9,
+            "Yohananof": 8.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290112335500",
+        "name": "פריכיות טעימות חלבון135ג",
+        "prices": {
+            "Shufersal Deal": 12.5,
+            "Rami Levi": null,
+            "Yohananof": 11.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290112336644",
+        "name": "סוכריות מאסט לימון 80גרם",
+        "prices": {
+            "Shufersal Deal": 9.9,
+            "Rami Levi": null,
+            "Yohananof": 7.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290112336712",
+        "name": "דנונה פרו 21 חלבון0% 200",
+        "prices": {
+            "Shufersal Deal": 6.5,
+            "Rami Levi": 6.9,
+            "Yohananof": 6.2
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290112337474",
+        "name": "סוכריות מאסט פטל לימון80",
+        "prices": {
+            "Shufersal Deal": 9.9,
+            "Rami Levi": null,
+            "Yohananof": 7.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290112339911",
+        "name": "דניאלה בטעם פטל 88 גרם",
+        "prices": {
+            "Shufersal Deal": 4.2,
+            "Rami Levi": 4.4,
+            "Yohananof": 3.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290112340276",
+        "name": "פינוקיות קרם קפה נמס200ג",
+        "prices": {
+            "Shufersal Deal": 14.9,
+            "Rami Levi": null,
+            "Yohananof": 12.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290112341679",
+        "name": "אקטיביה 3% שומן 200 גרם",
+        "prices": {
+            "Shufersal Deal": 4.8,
+            "Rami Levi": 4.9,
+            "Yohananof": 4.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290112343499",
+        "name": "חטיף ציטוס puffs גבינה55",
+        "prices": {
+            "Shufersal Deal": 4.5,
+            "Rami Levi": 4.5,
+            "Yohananof": 3.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290112344786",
+        "name": "קפה פלטינום קלאסיק200גרם",
+        "prices": {
+            "Shufersal Deal": 33.9,
+            "Rami Levi": null,
+            "Yohananof": 31.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290112347008",
+        "name": "גמדים ארוחת בוקר תות100ג",
+        "prices": {
+            "Shufersal Deal": 5.9,
+            "Rami Levi": 6.5,
+            "Yohananof": 5.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290112348142",
+        "name": "שעועית לבנה 380 גרם",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 8.1,
+            "Yohananof": 6.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290112348548",
+        "name": "שוקולד פרה לבן 100 גרם",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 9.9,
+            "Yohananof": 8.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290112349606",
+        "name": "דניאלה תות בננה 88 גרם",
+        "prices": {
+            "Shufersal Deal": 4.2,
+            "Rami Levi": 4.4,
+            "Yohananof": 3.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290112357083",
+        "name": "אפונה ירוקה 380 גרם",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 8.1,
+            "Yohananof": 6.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290112493927",
+        "name": "גל.קרמיסימו ריבת חלב1.33",
+        "prices": {
+            "Shufersal Deal": 25.5,
+            "Rami Levi": null,
+            "Yohananof": 22.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290112494221",
+        "name": "קליק ביסקוויט 65 גרם",
+        "prices": {
+            "Shufersal Deal": 8.5,
+            "Rami Levi": 8.7,
+            "Yohananof": 7.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290112494238",
+        "name": "קליק כדורים 65 גרם",
+        "prices": {
+            "Shufersal Deal": 8.5,
+            "Rami Levi": 8.7,
+            "Yohananof": 7.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290112494283",
+        "name": "קליק חום לבן 65 גרם",
+        "prices": {
+            "Shufersal Deal": 8.5,
+            "Rami Levi": 8.7,
+            "Yohananof": 7.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290112494351",
+        "name": "קורנפלקס אלופים בדץ 850ג",
+        "prices": {
+            "Shufersal Deal": 20.9,
+            "Rami Levi": 23.6,
+            "Yohananof": 19.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290112495433",
+        "name": "דגני דליפקאן 400ג תלמה",
+        "prices": {
+            "Shufersal Deal": 25.9,
+            "Rami Levi": 27.7,
+            "Yohananof": 23.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290112496218",
+        "name": "טריאקי פחות סוכר+נתרן370",
+        "prices": {
+            "Shufersal Deal": 13.9,
+            "Rami Levi": null,
+            "Yohananof": 11.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290112499943",
+        "name": "מאגדת מיני מגנום קלאסיק5",
+        "prices": {
+            "Shufersal Deal": 33.9,
+            "Rami Levi": 34.8,
+            "Yohananof": 31.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290112963918",
+        "name": "קרקר דק רוזמרין פיטנס140",
+        "prices": {
+            "Shufersal Deal": 13.3,
+            "Rami Levi": 13.1,
+            "Yohananof": 11.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290112968821",
+        "name": "קרקר דק פיטנס בטטה 140גר",
+        "prices": {
+            "Shufersal Deal": 13.3,
+            "Rami Levi": 13.1,
+            "Yohananof": 11.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290113192393",
+        "name": "קוקטייל זיתים 560 גרם",
+        "prices": {
+            "Shufersal Deal": 16.9,
+            "Rami Levi": 17.3,
+            "Yohananof": 14.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290113192577",
+        "name": "כרוב כבוש בית השיטה 560",
+        "prices": {
+            "Shufersal Deal": 10.9,
+            "Rami Levi": 10.0,
+            "Yohananof": 8.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290114311069",
+        "name": "מולר אקטיב לבן0% 25חלבון",
+        "prices": {
+            "Shufersal Deal": 6.9,
+            "Rami Levi": null,
+            "Yohananof": 6.6
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290114311328",
+        "name": "חלב נטו.לקטוז מועשר2% 1ל",
+        "prices": {
+            "Shufersal Deal": 9.9,
+            "Rami Levi": null,
+            "Yohananof": 8.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290114312950",
+        "name": "משקה חלבון וניל פרוטא350",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": null,
+            "Yohananof": 7.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290114313018",
+        "name": "חלב נטול לקטוז וניל2% 1ל",
+        "prices": {
+            "Shufersal Deal": 13.0,
+            "Rami Levi": null,
+            "Yohananof": 11.3
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290114313278",
+        "name": "משקה חלבון קפה פרוטא350מ",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": null,
+            "Yohananof": 7.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290114313285",
+        "name": "משקה חלבון בננה פרוט350",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": null,
+            "Yohananof": 7.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290114313865",
+        "name": "חלב מועשר בחלבון 1 ליטר",
+        "prices": {
+            "Shufersal Deal": 13.9,
+            "Rami Levi": 14.9,
+            "Yohananof": 13.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290114314626",
+        "name": "משק.חלבון ט.קפה1.5% 350מ",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": null,
+            "Yohananof": 7.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290115204056",
+        "name": "קטשופ מופחת סוכר 690 גרם",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 13.6,
+            "Yohananof": 10.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290115208009",
+        "name": "ויטמינציק ענבים 1 ליטר",
+        "prices": {
+            "Shufersal Deal": 13.9,
+            "Rami Levi": 16.7,
+            "Yohananof": 13.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290115208047",
+        "name": "ויטמינציק פטל 1 ליטר",
+        "prices": {
+            "Shufersal Deal": 13.9,
+            "Rami Levi": 16.7,
+            "Yohananof": 13.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290115678376",
+        "name": "מעדן הגולן שוקולד 125 גר",
+        "prices": {
+            "Shufersal Deal": 3.4,
+            "Rami Levi": 3.9,
+            "Yohananof": 3.2
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290116537351",
+        "name": "כריות נוגט 686 גרם תלמה",
+        "prices": {
+            "Shufersal Deal": 28.9,
+            "Rami Levi": 32.3,
+            "Yohananof": 27.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290116930695",
+        "name": "חלב נטול לקטוז 2% 1 ליטר",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 9.9,
+            "Yohananof": 8.8
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290116931241",
+        "name": "קוטג' תנובה 12% 250גרם",
+        "prices": {
+            "Shufersal Deal": 6.9,
+            "Rami Levi": null,
+            "Yohananof": 6.7
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290116932033",
+        "name": "חמאה מהדרין 200ג תנובה",
+        "prices": {
+            "Shufersal Deal": 9.9,
+            "Rami Levi": 10.2,
+            "Yohananof": 9.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290116932484",
+        "name": "יוגורט גו אורירי וניל200",
+        "prices": {
+            "Shufersal Deal": 6.7,
+            "Rami Levi": 7.2,
+            "Yohananof": 6.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290116932774",
+        "name": "משקה יוג.גו בננה קרמל500",
+        "prices": {
+            "Shufersal Deal": 14.1,
+            "Rami Levi": 15.8,
+            "Yohananof": 12.2
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290116934020",
+        "name": "יוגורט גו אוורירי קפה200",
+        "prices": {
+            "Shufersal Deal": 6.7,
+            "Rami Levi": null,
+            "Yohananof": 6.5
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290116934273",
+        "name": "חלב וניל 2% בקרטון 1 ליט",
+        "prices": {
+            "Shufersal Deal": 9.7,
+            "Rami Levi": 9.9,
+            "Yohananof": 9.4
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290116934327",
+        "name": "אייס קפה שיבול שועל 1 לי",
+        "prices": {
+            "Shufersal Deal": 13.9,
+            "Rami Levi": null,
+            "Yohananof": 13.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290116934365",
+        "name": "נפוליאון16% שום שמיר225ג",
+        "prices": {
+            "Shufersal Deal": 15.8,
+            "Rami Levi": 17.0,
+            "Yohananof": 14.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290116934402",
+        "name": "יוגורט חלבון גו 20 גרם",
+        "prices": {
+            "Shufersal Deal": 6.7,
+            "Rami Levi": null,
+            "Yohananof": 6.5
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290116935416",
+        "name": "חלב להקצפה לקפה2% 800מ\"ל",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 9.7,
+            "Yohananof": 7.8
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290116935607",
+        "name": "משקהGOקולגן אייס קפה340מ",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": null,
+            "Yohananof": 8.2
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290116935614",
+        "name": "יוגורט חלבון גו 25ג 200ג",
+        "prices": {
+            "Shufersal Deal": 6.7,
+            "Rami Levi": 7.2,
+            "Yohananof": 6.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290116935621",
+        "name": "יוגורט23חלבון וניל גו200",
+        "prices": {
+            "Shufersal Deal": 6.7,
+            "Rami Levi": null,
+            "Yohananof": 6.5
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290116936093",
+        "name": "יולו שכבות שוקו.לבן וקפה",
+        "prices": {
+            "Shufersal Deal": 5.9,
+            "Rami Levi": null,
+            "Yohananof": 5.3
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290118425526",
+        "name": "רוטב סויה קלאסי אסם 290",
+        "prices": {
+            "Shufersal Deal": 17.5,
+            "Rami Levi": 19.7,
+            "Yohananof": 15.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290118427728",
+        "name": "מנה חמה אורז קארי ירוק70",
+        "prices": {
+            "Shufersal Deal": 11.9,
+            "Rami Levi": null,
+            "Yohananof": 11.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290119370955",
+        "name": "דנונה פרו לל\"ס וניל עוג.",
+        "prices": {
+            "Shufersal Deal": 6.5,
+            "Rami Levi": 7.0,
+            "Yohananof": 6.2
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290119373024",
+        "name": "אצבע.ש.חלב מילוי אגוז100",
+        "prices": {
+            "Shufersal Deal": 10.0,
+            "Rami Levi": null,
+            "Yohananof": 10.5
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290119373048",
+        "name": "אצבע.ש.חלב מילוי קרמל108",
+        "prices": {
+            "Shufersal Deal": 10.0,
+            "Rami Levi": null,
+            "Yohananof": 10.5
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290119375257",
+        "name": "גמדים אפרסק משמש 100גרם",
+        "prices": {
+            "Shufersal Deal": 5.9,
+            "Rami Levi": 6.4,
+            "Yohananof": 5.6
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290119377411",
+        "name": "דנונה פרו 25ג חלבון 215ג",
+        "prices": {
+            "Shufersal Deal": 6.9,
+            "Rami Levi": 7.3,
+            "Yohananof": 6.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290119380824",
+        "name": "משקה קפה קר ש.שועל230מ\"ל",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": null,
+            "Yohananof": 8.3
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290119382576",
+        "name": "שוקולד לבן עוגיות 100גרם",
+        "prices": {
+            "Shufersal Deal": 8.9,
+            "Rami Levi": 9.9,
+            "Yohananof": 8.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290119382989",
+        "name": "צנצנת בזוקה ענבים לל\"ס66",
+        "prices": {
+            "Shufersal Deal": 11.5,
+            "Rami Levi": 12.9,
+            "Yohananof": 9.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7290119384242",
+        "name": "יוג.פרו קרם לימון ללס200",
+        "prices": {
+            "Shufersal Deal": 6.5,
+            "Rami Levi": 6.9,
+            "Yohananof": 6.2
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "72917367",
+        "name": "חטיף טעמי 40ג עלית",
+        "prices": {
+            "Shufersal Deal": 4.9,
+            "Rami Levi": 5.8,
+            "Yohananof": 4.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "72940761",
+        "name": "מילקי בטעם שוקולד 135ג",
+        "prices": {
+            "Shufersal Deal": 3.1,
+            "Rami Levi": 3.4,
+            "Yohananof": 3.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "72963753",
+        "name": "שמ.של פעם חמוצה27% 200ג",
+        "prices": {
+            "Shufersal Deal": 5.3,
+            "Rami Levi": 5.5,
+            "Yohananof": 4.8
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "72986455",
+        "name": "גלידה ניו יורק סופר",
+        "prices": {
+            "Shufersal Deal": 22.9,
+            "Rami Levi": 25.4,
+            "Yohananof": 21.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7394376620904",
+        "name": "משקה שיבול.שועל ל.סוכר1ל",
+        "prices": {
+            "Shufersal Deal": 17.5,
+            "Rami Levi": null,
+            "Yohananof": 15.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7613035807778",
+        "name": "רוטב עגבניות לבולונז400ג",
+        "prices": {
+            "Shufersal Deal": 12.9,
+            "Rami Levi": 14.1,
+            "Yohananof": 11.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7613038451954",
+        "name": "קראנץ שוקו.פחות סוכר410ג",
+        "prices": {
+            "Shufersal Deal": 25.7,
+            "Rami Levi": null,
+            "Yohananof": 20.1
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7622201139278",
+        "name": "גבינת פילדלפיה 25% 150גר",
+        "prices": {
+            "Shufersal Deal": 15.9,
+            "Rami Levi": 17.3,
+            "Yohananof": 14.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "7622201401900",
+        "name": "עוג.מילקה סנס.אוראו 156ג",
+        "prices": {
+            "Shufersal Deal": 16.9,
+            "Rami Levi": 19.6,
+            "Yohananof": 16.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "76840100583",
+        "name": "גלידה בצק עוגיות",
+        "prices": {
+            "Shufersal Deal": 22.9,
+            "Rami Levi": 25.4,
+            "Yohananof": 21.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "77245110610",
+        "name": "סוכריות מאסט מנטה 80 גרם",
+        "prices": {
+            "Shufersal Deal": 9.9,
+            "Rami Levi": null,
+            "Yohananof": 7.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7791875005353",
+        "name": "ריבת חלב הוואנה 450 גרם",
+        "prices": {
+            "Shufersal Deal": 19.9,
+            "Rami Levi": null,
+            "Yohananof": 22.1
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8000215204219",
+        "name": "משקה אורז אורגני 1 ליטר",
+        "prices": {
+            "Shufersal Deal": 15.9,
+            "Rami Levi": 16.3,
+            "Yohananof": 15.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "8000215204677",
+        "name": "משקה ש.שועל בריסטה 1 ל'",
+        "prices": {
+            "Shufersal Deal": 15.9,
+            "Rami Levi": 16.3,
+            "Yohananof": 15.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "8000380004676",
+        "name": "ופל קרם חלב וניל200לואקר",
+        "prices": {
+            "Shufersal Deal": 16.9,
+            "Rami Levi": null,
+            "Yohananof": 15.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8000500071083",
+        "name": "אצבעות קינדר 200 גרם",
+        "prices": {
+            "Shufersal Deal": 17.9,
+            "Rami Levi": 19.8,
+            "Yohananof": 15.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "8000500256213",
+        "name": "שוקולד מיני קינדר 120גרם",
+        "prices": {
+            "Shufersal Deal": 14.9,
+            "Rami Levi": 15.0,
+            "Yohananof": 13.5
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "8000500384794",
+        "name": "קינדר טרונקי 90 גרם",
+        "prices": {
+            "Shufersal Deal": 15.9,
+            "Rami Levi": 14.7,
+            "Yohananof": 13.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "8000500390641",
+        "name": "קינדר בואנו ביצים 80 גרם",
+        "prices": {
+            "Shufersal Deal": 17.9,
+            "Rami Levi": null,
+            "Yohananof": 13.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8000500391228",
+        "name": "קינדר עוגיות קינדרינ250ג",
+        "prices": {
+            "Shufersal Deal": 19.9,
+            "Rami Levi": 22.6,
+            "Yohananof": 19.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "8000500431719",
+        "name": "פררו גרנד אסורטמנט197.8ג",
+        "prices": {
+            "Shufersal Deal": 49.9,
+            "Rami Levi": 49.9,
+            "Yohananof": 49.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "8004030271418",
+        "name": "טונה ריו שמן זית לימ65*3",
+        "prices": {
+            "Shufersal Deal": 29.9,
+            "Rami Levi": null,
+            "Yohananof": 28.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8004030344938",
+        "name": "טונה בשמן זית80*3ג",
+        "prices": {
+            "Shufersal Deal": 29.9,
+            "Rami Levi": null,
+            "Yohananof": 28.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8004690052044",
+        "name": "פסטה פנה ריגטה 500 גרם",
+        "prices": {
+            "Shufersal Deal": 8.2,
+            "Rami Levi": null,
+            "Yohananof": 8.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8004690053225",
+        "name": "פסטה מזי ריגטוני 500 גרם",
+        "prices": {
+            "Shufersal Deal": 8.2,
+            "Rami Levi": null,
+            "Yohananof": 8.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8004690057308",
+        "name": "פסטה רדיאטורי 500 גרם",
+        "prices": {
+            "Shufersal Deal": 8.2,
+            "Rami Levi": null,
+            "Yohananof": 8.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8004690101513",
+        "name": "פסטה קוואדרטו 500 גרם",
+        "prices": {
+            "Shufersal Deal": 8.2,
+            "Rami Levi": null,
+            "Yohananof": 8.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "80050025",
+        "name": "סוכריות טיק-טק תפוז16גרם",
+        "prices": {
+            "Shufersal Deal": 4.9,
+            "Rami Levi": null,
+            "Yohananof": 3.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8008857200156",
+        "name": "פסטה 15 בוקטיני 500 גרם",
+        "prices": {
+            "Shufersal Deal": 8.2,
+            "Rami Levi": null,
+            "Yohananof": 5.5
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "80176800",
+        "name": "נוטלה ממרח שוקולד 750 גר",
+        "prices": {
+            "Shufersal Deal": 29.9,
+            "Rami Levi": 32.9,
+            "Yohananof": 31.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "8076802085981",
+        "name": "פסטה פוזילי מס98' 500גרם",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": null,
+            "Yohananof": 7.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8076809512268",
+        "name": "פסטה גירנדולה מס34 500ג",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": null,
+            "Yohananof": 7.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8076809513388",
+        "name": "רוטב פיקנטי לפסטה 400גרם",
+        "prices": {
+            "Shufersal Deal": 15.9,
+            "Rami Levi": null,
+            "Yohananof": 16.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8076809513692",
+        "name": "רוטב לפסטה נפוליטנה400גר",
+        "prices": {
+            "Shufersal Deal": 15.9,
+            "Rami Levi": null,
+            "Yohananof": 16.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8076809584920",
+        "name": "פסטה טורטיליוני ברילה",
+        "prices": {
+            "Shufersal Deal": 7.9,
+            "Rami Levi": null,
+            "Yohananof": 7.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "80773429",
+        "name": "מסטיק מנטוס בקבוק תות60ג",
+        "prices": {
+            "Shufersal Deal": 11.9,
+            "Rami Levi": 12.6,
+            "Yohananof": 11.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "80936848",
+        "name": "סוכריות טיק טק תות שדה16",
+        "prices": {
+            "Shufersal Deal": 4.9,
+            "Rami Levi": null,
+            "Yohananof": 3.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8423207208260",
+        "name": "ס.דליס שוק.חלב ל.ג13*6גר",
+        "prices": {
+            "Shufersal Deal": 12.9,
+            "Rami Levi": null,
+            "Yohananof": 12.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8423207208680",
+        "name": "סלים דליס ילדים ש.חלב6יח",
+        "prices": {
+            "Shufersal Deal": 13.9,
+            "Rami Levi": null,
+            "Yohananof": 12.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8425206000081",
+        "name": "ריבת חלב מרדל 450 גרם",
+        "prices": {
+            "Shufersal Deal": 22.5,
+            "Rami Levi": null,
+            "Yohananof": 22.1
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8715700110141",
+        "name": "ממרח היינץ צנצנת 460 גרם",
+        "prices": {
+            "Shufersal Deal": 13.5,
+            "Rami Levi": 15.1,
+            "Yohananof": 13.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "8715700124964",
+        "name": "קטשופ מופחת סוכר ומלח435",
+        "prices": {
+            "Shufersal Deal": 12.5,
+            "Rami Levi": null,
+            "Yohananof": 11.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8715700419732",
+        "name": "קטשופ היינץ 700 גרם",
+        "prices": {
+            "Shufersal Deal": 14.9,
+            "Rami Levi": 17.4,
+            "Yohananof": 14.9
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "8719200998001",
+        "name": "מרגרינה בלובנד ללת\"מ200ג",
+        "prices": {
+            "Shufersal Deal": 6.8,
+            "Rami Levi": 6.9,
+            "Yohananof": 6.2
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "8801055709465",
+        "name": "נסקפה קפוצינו וניל185ג",
+        "prices": {
+            "Shufersal Deal": 24.9,
+            "Rami Levi": null,
+            "Yohananof": 22.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8801055709472",
+        "name": "נסקפה קפוצינו קלאסיק125ג",
+        "prices": {
+            "Shufersal Deal": 24.9,
+            "Rami Levi": null,
+            "Yohananof": 22.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "8850389105825",
+        "name": "סאפה אלוורה טעם ענבים 1ל",
+        "prices": {
+            "Shufersal Deal": 14.9,
+            "Rami Levi": 15.1,
+            "Yohananof": 13.0
+        },
+        "full_comparison": true
+    },
+    {
+        "barcode": "8901537024014",
+        "name": "אורז בסמטי דאווט 1 ק\"ג",
+        "prices": {
+            "Shufersal Deal": 14.9,
+            "Rami Levi": null,
+            "Yohananof": 14.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290008102995",
+        "name": "סוכריות שוקולד לקישו",
+        "prices": {
+            "Shufersal Deal": null,
+            "Rami Levi": 14.9,
+            "Yohananof": 14.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290013145628",
+        "name": "מימונס סוכריות צבעונ",
+        "prices": {
+            "Shufersal Deal": null,
+            "Rami Levi": 11.5,
+            "Yohananof": 10.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290013145840",
+        "name": "סוכר וניל מיימונס 10",
+        "prices": {
+            "Shufersal Deal": null,
+            "Rami Levi": 3.2,
+            "Yohananof": 3.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290004128432",
+        "name": "גבינה מגורדת לפיצה ה",
+        "prices": {
+            "Shufersal Deal": null,
+            "Rami Levi": 27.8,
+            "Yohananof": 24.3
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290015858687",
+        "name": "איולי שום עללחם 295",
+        "prices": {
+            "Shufersal Deal": null,
+            "Rami Levi": 17.2,
+            "Yohananof": 12.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290106527386",
+        "name": "פריכיות אורז חום מלא",
+        "prices": {
+            "Shufersal Deal": null,
+            "Rami Levi": 10.8,
+            "Yohananof": 9.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290112336637",
+        "name": "סוכריות לל\"ס יוגורט",
+        "prices": {
+            "Shufersal Deal": null,
+            "Rami Levi": 9.7,
+            "Yohananof": 7.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290119382835",
+        "name": "סו מאצ' שוקולד חלב ק",
+        "prices": {
+            "Shufersal Deal": null,
+            "Rami Levi": 16.1,
+            "Yohananof": 13.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290119383634",
+        "name": "שוקולד פרה חלב נוסטל",
+        "prices": {
+            "Shufersal Deal": null,
+            "Rami Levi": 9.9,
+            "Yohananof": 8.5
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290000211503",
+        "name": "סוכר סוגת 1 ק\"ג",
+        "prices": {
+            "Shufersal Deal": null,
+            "Rami Levi": 5.5,
+            "Yohananof": 4.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290100700372",
+        "name": "אורז בסמטי מלא 1 ק\"ג",
+        "prices": {
+            "Shufersal Deal": null,
+            "Rami Levi": 15.9,
+            "Yohananof": 15.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "80832560",
+        "name": "סוכריות מנטוס ללא סו",
+        "prices": {
+            "Shufersal Deal": null,
+            "Rami Levi": 8.1,
+            "Yohananof": 7.0
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290006664402",
+        "name": "גבינה לבנה סקי 5% שו",
+        "prices": {
+            "Shufersal Deal": null,
+            "Rami Levi": 17.3,
+            "Yohananof": 17.43
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290019766018",
+        "name": "אול אין חטיף חלבון ס",
+        "prices": {
+            "Shufersal Deal": null,
+            "Rami Levi": 16.1,
+            "Yohananof": 13.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290002407348",
+        "name": "שמן זית ג'השאן כתית",
+        "prices": {
+            "Shufersal Deal": null,
+            "Rami Levi": 32.7,
+            "Yohananof": 39.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290019894247",
+        "name": "פסטה קרניים 400 גר ב",
+        "prices": {
+            "Shufersal Deal": null,
+            "Rami Levi": 3.9,
+            "Yohananof": 3.5
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290019894155",
+        "name": "פסטה פוזילי 400 גר ב",
+        "prices": {
+            "Shufersal Deal": null,
+            "Rami Levi": 3.9,
+            "Yohananof": 3.5
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290119382279",
+        "name": "סוכריות בטעם חמאה",
+        "prices": {
+            "Shufersal Deal": null,
+            "Rami Levi": 9.9,
+            "Yohananof": 7.9
+        },
+        "full_comparison": false
+    },
+    {
+        "barcode": "7290119382293",
+        "name": "סוכריות בטעם תפוז  ל",
+        "prices": {
+            "Shufersal Deal": null,
+            "Rami Levi": 9.9,
+            "Yohananof": 7.9
+        },
+        "full_comparison": false
+    }
+]
