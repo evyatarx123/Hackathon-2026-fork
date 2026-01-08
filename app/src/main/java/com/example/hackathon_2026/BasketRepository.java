@@ -24,8 +24,20 @@ public class BasketRepository {
 
     public void saveBasket(Basket basket) {
         List<Basket> baskets = getAllBaskets();
+        // Remove existing basket with the same ID if it exists (update scenario)
+        baskets.removeIf(b -> b.id.equals(basket.id));
         baskets.add(basket);
         saveBasketsList(baskets);
+    }
+
+    public Basket getBasket(String basketId) {
+        List<Basket> baskets = getAllBaskets();
+        for (Basket b : baskets) {
+            if (b.id.equals(basketId)) {
+                return b;
+            }
+        }
+        return null;
     }
 
     public List<Basket> getAllBaskets() {

@@ -3,6 +3,7 @@ package com.example.hackathon_2026;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.graphics.Canvas;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -15,6 +16,8 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.content.ContextCompat;
+import androidx.recyclerview.widget.ItemTouchHelper;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
@@ -54,6 +57,9 @@ public class MainActivity extends AppCompatActivity {
         adapter = new BasketAdapter();
         rvBaskets.setAdapter(adapter);
 
+        // Setup ItemTouchHelper for Swipe Actions
+        setupSwipeActions();
+
         // Handlers
         btnAddBasket.setOnClickListener(v -> {
             startActivity(new Intent(MainActivity.this, CreateBasketActivity.class));
@@ -62,6 +68,58 @@ public class MainActivity extends AppCompatActivity {
         ivCamera.setOnClickListener(v -> {
             Toast.makeText(this, "Scanner coming soon!", Toast.LENGTH_SHORT).show();
         });
+    }
+
+    private void setupSwipeActions() {
+        ItemTouchHelper.SimpleCallback simpleItemTouchCallback = new ItemTouchHelper.SimpleCallback(0, ItemTouchHelper.LEFT) {
+
+            @Override
+            public boolean onMove(@NonNull RecyclerView recyclerView, @NonNull RecyclerView.ViewHolder viewHolder, @NonNull RecyclerView.ViewHolder target) {
+                return false;
+            }
+
+            @Override
+            public void onSwiped(@NonNull RecyclerView.ViewHolder viewHolder, int direction) {
+                int position = viewHolder.getAdapterPosition();
+                Basket basket = baskets.get(position);
+
+                // Show Options Dialog
+                showEditDeleteOptions(basket, position);
+            }
+
+            @Override
+            public void onChildDraw(@NonNull Canvas c, @NonNull RecyclerView recyclerView, @NonNull RecyclerView.ViewHolder viewHolder, float dX, float dY, int actionState, boolean isCurrentlyActive) {
+                 // Optional: Draw background or icon here to indicate options
+                 // For now, default behavior is fine, the dialog is the main requirement.
+                 super.onChildDraw(c, recyclerView, viewHolder, dX, dY, actionState, isCurrentlyActive);
+            }
+        };
+
+        ItemTouchHelper itemTouchHelper = new ItemTouchHelper(simpleItemTouchCallback);
+        itemTouchHelper.attachToRecyclerView(rvBaskets);
+    }
+
+    private void showEditDeleteOptions(Basket basket, int position) {
+        String[] options = {"Edit", "Delete", "Cancel"};
+
+        new AlertDialog.Builder(this)
+                .setTitle("Manage " + basket.name)
+                .setItems(options, (dialog, which) -> {
+                    if (which == 0) { // Edit
+                        Intent intent = new Intent(MainActivity.this, CreateBasketActivity.class);
+                        intent.putExtra(CreateBasketActivity.EXTRA_BASKET_ID, basket.id);
+                        startActivity(intent);
+                        adapter.notifyItemChanged(position); // Reset swipe state
+                    } else if (which == 1) { // Delete
+                        basketRepository.deleteBasket(basket.id);
+                        loadBaskets();
+                        Toast.makeText(MainActivity.this, "Basket deleted", Toast.LENGTH_SHORT).show();
+                    } else { // Cancel
+                        adapter.notifyItemChanged(position); // Reset swipe state
+                    }
+                })
+                .setOnCancelListener(dialog -> adapter.notifyItemChanged(position)) // Reset on outside click
+                .show();
     }
 
     @Override
@@ -122,7 +180,7 @@ public class MainActivity extends AppCompatActivity {
 
             holder.itemView.setOnClickListener(v -> showBasketResult(basket));
 
-            // Optional: Long click to delete? Not in requirements but useful.
+            // Kept Long click just in case, but swipe is the main way now.
              holder.itemView.setOnLongClickListener(v -> {
                  new AlertDialog.Builder(MainActivity.this)
                          .setTitle("Delete Basket")

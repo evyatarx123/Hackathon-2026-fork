@@ -24,31 +24,52 @@ import java.util.UUID;
 
 public class CreateBasketActivity extends AppCompatActivity {
 
+    public static final String EXTRA_BASKET_ID = "basket_id";
+
     private List<Product> allProducts;
     private List<Product> filteredProducts = new ArrayList<>();
     private List<Product> basketProducts = new ArrayList<>();
 
-    private ProductAdapter adapter;
+    private ProductAdapter searchAdapter;
+    private BasketItemAdapter basketAdapter;
     private TextView tvBasketCount;
+    private TextView tvTitle;
+
+    private String editingBasketId = null;
+    private String editingBasketName = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_create_basket);
 
-        // Load all products (assuming lightweight for now, otherwise should be async or passed)
+        // Load all products
         allProducts = DataLoader.loadProducts(this);
         if (allProducts == null) allProducts = new ArrayList<>();
         filteredProducts.addAll(allProducts);
 
+        tvTitle = findViewById(R.id.tvTitle);
         EditText etSearch = findViewById(R.id.etSearchProduct);
         RecyclerView rvProducts = findViewById(R.id.rvProducts);
+        RecyclerView rvBasketItems = findViewById(R.id.rvBasketItems);
         tvBasketCount = findViewById(R.id.tvBasketCount);
         Button btnSave = findViewById(R.id.btnSaveBasket);
 
+        // Setup Search Adapter
         rvProducts.setLayoutManager(new LinearLayoutManager(this));
-        adapter = new ProductAdapter();
-        rvProducts.setAdapter(adapter);
+        searchAdapter = new ProductAdapter();
+        rvProducts.setAdapter(searchAdapter);
+
+        // Setup Basket Adapter
+        rvBasketItems.setLayoutManager(new LinearLayoutManager(this));
+        basketAdapter = new BasketItemAdapter();
+        rvBasketItems.setAdapter(basketAdapter);
+
+        // Check Intent for Edit Mode
+        if (getIntent().hasExtra(EXTRA_BASKET_ID)) {
+            editingBasketId = getIntent().getStringExtra(EXTRA_BASKET_ID);
+            loadBasketForEditing(editingBasketId);
+        }
 
         etSearch.addTextChangedListener(new TextWatcher() {
             @Override
@@ -64,6 +85,29 @@ public class CreateBasketActivity extends AppCompatActivity {
         });
 
         btnSave.setOnClickListener(v -> showSaveDialog());
+
+        updateBasketCount();
+    }
+
+    private void loadBasketForEditing(String basketId) {
+        BasketRepository repo = new BasketRepository(this);
+        Basket basket = repo.getBasket(basketId);
+        if (basket != null) {
+            editingBasketName = basket.name;
+            if (basket.products != null) {
+                basketProducts.addAll(basket.products);
+            }
+            tvTitle.setText("Edit Basket: " + editingBasketName);
+            basketAdapter.notifyDataSetChanged();
+            updateBasketCount();
+        } else {
+            Toast.makeText(this, "Error loading basket", Toast.LENGTH_SHORT).show();
+            finish();
+        }
+    }
+
+    private void updateBasketCount() {
+        tvBasketCount.setText("Items in basket: " + basketProducts.size());
     }
 
     private void filterProducts(String query) {
@@ -72,12 +116,12 @@ public class CreateBasketActivity extends AppCompatActivity {
             filteredProducts.addAll(allProducts);
         } else {
             for (Product p : allProducts) {
-                if (p.name.toLowerCase().startsWith(query.toLowerCase())) {
+                if (p.name.toLowerCase().contains(query.toLowerCase())) {
                     filteredProducts.add(p);
                 }
             }
         }
-        adapter.notifyDataSetChanged();
+        searchAdapter.notifyDataSetChanged();
     }
 
     private void showSaveDialog() {
@@ -87,10 +131,13 @@ public class CreateBasketActivity extends AppCompatActivity {
         }
 
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
-        builder.setTitle("Name your basket");
+        builder.setTitle(editingBasketId != null ? "Update Basket" : "Name your basket");
 
         final EditText input = new EditText(this);
         input.setHint("Basket Name");
+        if (editingBasketName != null) {
+            input.setText(editingBasketName);
+        }
         builder.setView(input);
 
         builder.setPositiveButton("Save", (dialog, which) -> {
@@ -105,14 +152,20 @@ public class CreateBasketActivity extends AppCompatActivity {
     }
 
     private void saveBasket(String name) {
-        Basket basket = new Basket(UUID.randomUUID().toString(), name, basketProducts);
+        String id = (editingBasketId != null) ? editingBasketId : UUID.randomUUID().toString();
+
+        Basket basket = new Basket(id, name, basketProducts);
         BasketRepository repo = new BasketRepository(this);
         repo.saveBasket(basket);
 
         Toast.makeText(this, "Basket saved!", Toast.LENGTH_SHORT).show();
+
+        // Go back to main activity (clearing stack to refresh nicely, or just finish)
+        // Since MainActivity uses onResume to load, finish() is sufficient.
         finish();
     }
 
+    // --- Search Result Adapter ---
     private class ProductAdapter extends RecyclerView.Adapter<ProductAdapter.ViewHolder> {
 
         @NonNull
@@ -129,7 +182,8 @@ public class CreateBasketActivity extends AppCompatActivity {
             holder.tvName.setText(product.name);
             holder.btnAdd.setOnClickListener(v -> {
                 basketProducts.add(product);
-                tvBasketCount.setText("Items in basket: " + basketProducts.size());
+                basketAdapter.notifyDataSetChanged(); // Refresh basket list
+                updateBasketCount();
                 Toast.makeText(CreateBasketActivity.this, "Added " + product.name, Toast.LENGTH_SHORT).show();
             });
         }
@@ -137,6 +191,53 @@ public class CreateBasketActivity extends AppCompatActivity {
         @Override
         public int getItemCount() {
             return filteredProducts.size();
+        }
+
+        class ViewHolder extends RecyclerView.ViewHolder {
+            TextView tvName;
+            Button btnAdd;
+
+            ViewHolder(@NonNull View itemView) {
+                super(itemView);
+                tvName = itemView.findViewById(R.id.tvProductName);
+                btnAdd = itemView.findViewById(R.id.btnAddProduct);
+            }
+        }
+    }
+
+    // --- Basket Item Adapter (New) ---
+    private class BasketItemAdapter extends RecyclerView.Adapter<BasketItemAdapter.ViewHolder> {
+
+        @NonNull
+        @Override
+        public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
+            // We can reuse the same layout if we change the button text programmatically
+            // or create a new layout. For simplicity, reusing item_product_search but changing button.
+            View view = LayoutInflater.from(parent.getContext())
+                    .inflate(R.layout.item_product_search, parent, false);
+            return new ViewHolder(view);
+        }
+
+        @Override
+        public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
+            Product product = basketProducts.get(position);
+            holder.tvName.setText(product.name);
+
+            // Change button to "Remove" or "X"
+            holder.btnAdd.setText("Remove");
+            holder.btnAdd.setBackgroundColor(getResources().getColor(android.R.color.holo_red_light));
+
+            holder.btnAdd.setOnClickListener(v -> {
+                basketProducts.remove(position);
+                notifyItemRemoved(position);
+                notifyItemRangeChanged(position, basketProducts.size());
+                updateBasketCount();
+            });
+        }
+
+        @Override
+        public int getItemCount() {
+            return basketProducts.size();
         }
 
         class ViewHolder extends RecyclerView.ViewHolder {
