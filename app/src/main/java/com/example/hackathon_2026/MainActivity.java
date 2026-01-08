@@ -1,5 +1,6 @@
 package com.example.hackathon_2026;
 
+import android.content.Context;
 import android.os.Bundle;
 import android.util.Log; // חשוב להוסיף את זה
 import androidx.activity.EdgeToEdge;
@@ -14,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     // משתנה שיחזיק את רשימת המוצרים לאורך כל חיי האפליקציה
     private List<Product> allProducts;
-
+    public static Context context;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
