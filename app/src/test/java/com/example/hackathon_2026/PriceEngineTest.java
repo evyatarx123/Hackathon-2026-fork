@@ -56,23 +56,15 @@ public class PriceEngineTest {
 
         PriceEngine.BasketResult result = PriceEngine.calculateBasketBestDeal(basket);
 
-        // Shufersal (10) < Yohananof (20). Rami Levi excluded/ignored?
-        // Logic check: Rami Levi total = 0, but missing item.
-        // My logic: compares totals (0 vs 10 vs 20). 0 is smallest.
-        // Wait, if total is 0 because of missing items, it might be falsely identified as cheapest.
-        // I need to fix logic if total is 0 but it's not actually "free".
-        // Current logic:
-        /*
-            if (product.prices.ramiLevi != null) {
-                ramiLeviTotal += product.prices.ramiLevi;
-            } else {
-                ramiLeviMissing.add(product.name);
-            }
-        */
-        // If Rami Levi is missing the ONLY item, total is 0.
-        // 0 < 10. So Rami Levi wins. This is a BUG in my logic.
+        // Logic check: Rami Levi is missing the item.
+        // Shufersal (10.0) has the item.
+        // Yohananof (20.0) has the item.
 
-        // I will write this test to FAIL first or just observe behavior, then fix logic.
-        // Actually, I should probably fix the logic before submitting.
+        // The engine prioritizes stores with FEWER missing items.
+        // Rami Levi (1 missing) vs Shufersal (0 missing).
+        // Shufersal should win despite Rami Levi having a total of 0 (or undefined).
+
+        assertEquals("שופרסל דיל", result.storeName);
+        assertEquals(10.0, result.totalPrice, 0.01);
     }
 }
