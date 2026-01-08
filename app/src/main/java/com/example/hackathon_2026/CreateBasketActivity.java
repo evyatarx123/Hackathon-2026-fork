@@ -31,7 +31,6 @@ public class CreateBasketActivity extends AppCompatActivity {
     private List<Product> basketProducts = new ArrayList<>();
 
     private ProductAdapter searchAdapter;
-    private BasketItemAdapter basketAdapter;
     private TextView tvBasketCount;
     private TextView tvTitle;
 
@@ -51,19 +50,15 @@ public class CreateBasketActivity extends AppCompatActivity {
         tvTitle = findViewById(R.id.tvTitle);
         EditText etSearch = findViewById(R.id.etSearchProduct);
         RecyclerView rvProducts = findViewById(R.id.rvProducts);
-        RecyclerView rvBasketItems = findViewById(R.id.rvBasketItems);
+
         tvBasketCount = findViewById(R.id.tvBasketCount);
+        Button btnViewBasket = findViewById(R.id.btnViewBasket);
         Button btnSave = findViewById(R.id.btnSaveBasket);
 
         // Setup Search Adapter
         rvProducts.setLayoutManager(new LinearLayoutManager(this));
         searchAdapter = new ProductAdapter();
         rvProducts.setAdapter(searchAdapter);
-
-        // Setup Basket Adapter
-        rvBasketItems.setLayoutManager(new LinearLayoutManager(this));
-        basketAdapter = new BasketItemAdapter();
-        rvBasketItems.setAdapter(basketAdapter);
 
         // Check Intent for Edit Mode
         if (getIntent().hasExtra(EXTRA_BASKET_ID)) {
@@ -85,6 +80,7 @@ public class CreateBasketActivity extends AppCompatActivity {
         });
 
         btnSave.setOnClickListener(v -> showSaveDialog());
+        btnViewBasket.setOnClickListener(v -> showBasketItemsDialog());
 
         updateBasketCount();
     }
@@ -98,7 +94,6 @@ public class CreateBasketActivity extends AppCompatActivity {
                 basketProducts.addAll(basket.products);
             }
             tvTitle.setText("Edit Basket: " + editingBasketName);
-            basketAdapter.notifyDataSetChanged();
             updateBasketCount();
         } else {
             Toast.makeText(this, "Error loading basket", Toast.LENGTH_SHORT).show();
@@ -107,7 +102,7 @@ public class CreateBasketActivity extends AppCompatActivity {
     }
 
     private void updateBasketCount() {
-        tvBasketCount.setText("Items in basket: " + basketProducts.size());
+        tvBasketCount.setText("Items: " + basketProducts.size());
     }
 
     private void filterProducts(String query) {
@@ -122,6 +117,32 @@ public class CreateBasketActivity extends AppCompatActivity {
             }
         }
         searchAdapter.notifyDataSetChanged();
+    }
+
+    private void showBasketItemsDialog() {
+        if (basketProducts.isEmpty()) {
+            Toast.makeText(this, "Your basket is empty", Toast.LENGTH_SHORT).show();
+            return;
+        }
+
+        // Inflate the dialog layout
+        View dialogView = LayoutInflater.from(this).inflate(R.layout.dialog_basket_items, null);
+        RecyclerView rvDialogItems = dialogView.findViewById(R.id.rvDialogBasketItems);
+        Button btnClose = dialogView.findViewById(R.id.btnCloseDialog);
+
+        // Setup Adapter for the dialog
+        rvDialogItems.setLayoutManager(new LinearLayoutManager(this));
+        BasketItemAdapter adapter = new BasketItemAdapter();
+        rvDialogItems.setAdapter(adapter);
+
+        AlertDialog dialog = new AlertDialog.Builder(this)
+                .setView(dialogView)
+                .setCancelable(true)
+                .create();
+
+        btnClose.setOnClickListener(v -> dialog.dismiss());
+
+        dialog.show();
     }
 
     private void showSaveDialog() {
@@ -159,9 +180,6 @@ public class CreateBasketActivity extends AppCompatActivity {
         repo.saveBasket(basket);
 
         Toast.makeText(this, "Basket saved!", Toast.LENGTH_SHORT).show();
-
-        // Go back to main activity (clearing stack to refresh nicely, or just finish)
-        // Since MainActivity uses onResume to load, finish() is sufficient.
         finish();
     }
 
@@ -182,7 +200,6 @@ public class CreateBasketActivity extends AppCompatActivity {
             holder.tvName.setText(product.name);
             holder.btnAdd.setOnClickListener(v -> {
                 basketProducts.add(product);
-                basketAdapter.notifyDataSetChanged(); // Refresh basket list
                 updateBasketCount();
                 Toast.makeText(CreateBasketActivity.this, "Added " + product.name, Toast.LENGTH_SHORT).show();
             });
@@ -205,14 +222,12 @@ public class CreateBasketActivity extends AppCompatActivity {
         }
     }
 
-    // --- Basket Item Adapter (New) ---
+    // --- Basket Item Adapter (Used in Dialog) ---
     private class BasketItemAdapter extends RecyclerView.Adapter<BasketItemAdapter.ViewHolder> {
 
         @NonNull
         @Override
         public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-            // We can reuse the same layout if we change the button text programmatically
-            // or create a new layout. For simplicity, reusing item_product_search but changing button.
             View view = LayoutInflater.from(parent.getContext())
                     .inflate(R.layout.item_product_search, parent, false);
             return new ViewHolder(view);
@@ -231,7 +246,12 @@ public class CreateBasketActivity extends AppCompatActivity {
                 basketProducts.remove(position);
                 notifyItemRemoved(position);
                 notifyItemRangeChanged(position, basketProducts.size());
-                updateBasketCount();
+                updateBasketCount(); // Update the main activity count from within the dialog
+
+                // If empty, maybe dismiss dialog? Or keep open? User choice. Keeping open is safer.
+                if (basketProducts.isEmpty()) {
+                     Toast.makeText(CreateBasketActivity.this, "Basket is now empty", Toast.LENGTH_SHORT).show();
+                }
             });
         }
 
